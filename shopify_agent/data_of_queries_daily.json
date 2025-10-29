@@ -1,0 +1,3917 @@
+[
+    {
+        "date": "2025-09-07",
+        "query": "the plants mall",
+        "country": "pak",
+        "clicks": 3,
+        "impressions": 4,
+        "ctr": 0.75,
+        "position": 1
+    },
+    {
+        "date": "2025-09-21",
+        "query": "the plants mall",
+        "country": "pak",
+        "clicks": 2,
+        "impressions": 2,
+        "ctr": 1,
+        "position": 1
+    },
+    {
+        "date": "2025-08-06",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 9
+    },
+    {
+        "date": "2025-08-11",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 1,
+        "impressions": 3,
+        "ctr": 0.33,
+        "position": 7
+    },
+    {
+        "date": "2025-08-23",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 7
+    },
+    {
+        "date": "2025-08-31",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 11
+    },
+    {
+        "date": "2025-09-15",
+        "query": "the plant mall",
+        "country": "pak",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 1
+    },
+    {
+        "date": "2025-09-16",
+        "query": "the plant mall",
+        "country": "pak",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 1
+    },
+    {
+        "date": "2025-09-18",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 1,
+        "impressions": 2,
+        "ctr": 0.5,
+        "position": 10
+    },
+    {
+        "date": "2025-09-22",
+        "query": "the plants mall",
+        "country": "pak",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 1,
+        "position": 1
+    },
+    {
+        "date": "2025-07-02",
+        "query": "jhumka bail plant",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 19
+    },
+    {
+        "date": "2025-07-02",
+        "query": "kasuri methi powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 55
+    },
+    {
+        "date": "2025-07-02",
+        "query": "safed jeera",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 35
+    },
+    {
+        "date": "2025-07-02",
+        "query": "white cumin seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 54
+    },
+    {
+        "date": "2025-07-02",
+        "query": "white zeera",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 52
+    },
+    {
+        "date": "2025-07-03",
+        "query": "jhumka bail season",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 14
+    },
+    {
+        "date": "2025-07-04",
+        "query": "jhumka bail",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 14
+    },
+    {
+        "date": "2025-07-04",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 29
+    },
+    {
+        "date": "2025-07-04",
+        "query": "kasuri methi powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 31
+    },
+    {
+        "date": "2025-07-04",
+        "query": "\u067e\u06cc\u0644\u06cc \u0633\u0631\u0633\u0648\u06ba",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+    },
+    {
+        "date": "2025-07-05",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 60
+    },
+    {
+        "date": "2025-07-05",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 30
+    },
+    {
+        "date": "2025-07-05",
+        "query": "white zeera",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 60
+    },
+    {
+        "date": "2025-07-06",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 56
+    },
+    {
+        "date": "2025-07-06",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 33
+    },
+    {
+        "date": "2025-07-06",
+        "query": "\u0679\u0627\u0679\u0631\u06cc",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 20
+    },
+    {
+        "date": "2025-07-07",
+        "query": "buy dry ginger whole",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 49
+    },
+    {
+        "date": "2025-07-07",
+        "query": "elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 67
+    },
+    {
+        "date": "2025-07-07",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 61
+    },
+    {
+        "date": "2025-07-07",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 33
+    },
+    {
+        "date": "2025-07-07",
+        "query": "suraj basmati rice review",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 14
+    },
+    {
+        "date": "2025-07-07",
+        "query": "tatri",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 36
+    },
+    {
+        "date": "2025-07-08",
+        "query": "badian khatai",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 29
+    },
+    {
+        "date": "2025-07-08",
+        "query": "jhumka vine",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-07-08",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 33
+    },
+    {
+        "date": "2025-07-08",
+        "query": "premium chilli powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 70
+    },
+    {
+        "date": "2025-07-08",
+        "query": "sundh",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 16
+    },
+    {
+        "date": "2025-07-08",
+        "query": "\u0679\u0627\u0679\u0631\u06cc \u06a9\u06cc\u0627 \u06c1\u06d2",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 31
+    },
+    {
+        "date": "2025-07-09",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 59
+    },
+    {
+        "date": "2025-07-09",
+        "query": "kalonji",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 80
+    },
+    {
+        "date": "2025-07-09",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 33
+    },
+    {
+        "date": "2025-07-09",
+        "query": "plants mall",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+    },
+    {
+        "date": "2025-07-09",
+        "query": "white zeera",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 60.5
+    },
+    {
+        "date": "2025-07-10",
+        "query": "desi lemon",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 33
+    },
+    {
+        "date": "2025-07-10",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 47
+    },
+    {
+        "date": "2025-07-10",
+        "query": "jhumka bail",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 17
+    },
+    {
+        "date": "2025-07-10",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 31
+    },
+    {
+        "date": "2025-07-10",
+        "query": "safed zeera",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 24
+    },
+    {
+        "date": "2025-07-10",
+        "query": "tatri powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 38
+    },
+    {
+        "date": "2025-07-11",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 53
+    },
+    {
+        "date": "2025-07-11",
+        "query": "jhumka bail plant",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 19
+    },
+    {
+        "date": "2025-07-11",
+        "query": "jhumka vine",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-07-11",
+        "query": "kalonji",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 77
+    },
+    {
+        "date": "2025-07-11",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 35
+    },
+    {
+        "date": "2025-07-11",
+        "query": "tatri salt",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+    },
+    {
+        "date": "2025-07-12",
+        "query": "citric acid 1kg price in pakistan",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 46.5
+    },
+    {
+        "date": "2025-07-12",
+        "query": "cucumber powder price",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 56
+    },
+    {
+        "date": "2025-07-12",
+        "query": "elaichi price in pakistan",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 63
+    },
+    {
+        "date": "2025-07-12",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 43
+    },
+    {
+        "date": "2025-07-12",
+        "query": "kalonji plant",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 62
+    },
+    {
+        "date": "2025-07-12",
+        "query": "niazbo plant",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 36
+    },
+    {
+        "date": "2025-07-13",
+        "query": "elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 69
+    },
+    {
+        "date": "2025-07-13",
+        "query": "elaichi price in pakistan",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 62
+    },
+    {
+        "date": "2025-07-13",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 47.33
+    },
+    {
+        "date": "2025-07-13",
+        "query": "kalonji",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 69
+    },
+    {
+        "date": "2025-07-13",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 32
+    },
+    {
+        "date": "2025-07-14",
+        "query": "desi shakkar",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 57
+    },
+    {
+        "date": "2025-07-14",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 46
+    },
+    {
+        "date": "2025-07-14",
+        "query": "kalonji",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 72
+    },
+    {
+        "date": "2025-07-14",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 32
+    },
+    {
+        "date": "2025-07-15",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 43
+    },
+    {
+        "date": "2025-07-15",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 32
+    },
+    {
+        "date": "2025-07-16",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 44
+    },
+    {
+        "date": "2025-07-16",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 30
+    },
+    {
+        "date": "2025-07-17",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 49
+    },
+    {
+        "date": "2025-07-17",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 31
+    },
+    {
+        "date": "2025-07-18",
+        "query": "barley sattu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 40
+    },
+    {
+        "date": "2025-07-18",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 48
+    },
+    {
+        "date": "2025-07-18",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 29
+    },
+    {
+        "date": "2025-07-19",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 51
+    },
+    {
+        "date": "2025-07-19",
+        "query": "kalongi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 80
+    },
+    {
+        "date": "2025-07-19",
+        "query": "kalonji plant",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 58
+    },
+    {
+        "date": "2025-07-20",
+        "query": "imli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 51.5
+    },
+    {
+        "date": "2025-07-20",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 36
+    },
+    {
+        "date": "2025-07-21",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 35
+    },
+    {
+        "date": "2025-07-22",
+        "query": "desi shakkar",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 43
+    },
+    {
+        "date": "2025-07-22",
+        "query": "\u062f\u06cc\u0633\u06cc \u0634\u06a9\u0631",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 17
+    },
+    {
+        "date": "2025-07-23",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 34
+    },
+    {
+        "date": "2025-07-25",
+        "query": "bajra",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 60.5
+    },
+    {
+        "date": "2025-07-25",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 35
+    },
+    {
+        "date": "2025-07-26",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 30
+    },
+    {
+        "date": "2025-07-27",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 31
+    },
+    {
+        "date": "2025-07-28",
+        "query": "bajra",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 73
+    },
+    {
+        "date": "2025-07-28",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 31
+    },
+    {
+        "date": "2025-07-29",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 27
+    },
+    {
+        "date": "2025-07-29",
+        "query": "plants mall",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+    },
+    {
+        "date": "2025-07-29",
+        "query": "\u0628\u0691\u06cc \u0627\u0644\u0627\u0626\u0686\u06cc",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 26
+    },
+    {
+        "date": "2025-07-30",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 25
+    },
+    {
+        "date": "2025-07-30",
+        "query": "plant mall",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 3
+    },
+    {
+        "date": "2025-07-31",
+        "query": "bajra",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 72
+    },
+    {
+        "date": "2025-07-31",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 25
+    },
+    {
+        "date": "2025-08-01",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 24
+    },
+    {
+        "date": "2025-08-02",
+        "query": "peach swat",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-08-03",
+        "query": "the plant mall",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+    },
+    {
+        "date": "2025-08-04",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-08-05",
+        "query": "badi elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 82
+    },
+    {
+        "date": "2025-08-05",
+        "query": "kalonji",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 73
+    },
+    {
+        "date": "2025-08-05",
+        "query": "plant mall",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 3
+    },
+    {
+        "date": "2025-08-05",
+        "query": "swat peach",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-08-06",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 10.33
+    },
+    {
+        "date": "2025-08-07",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-08-08",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-08-09",
+        "query": "kalonji",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 72
+    },
+    {
+        "date": "2025-08-09",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 28
+    },
+    {
+        "date": "2025-08-09",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-08-10",
+        "query": "badi ilayachi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 83
+    },
+    {
+        "date": "2025-08-10",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-08-12",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 6
+    },
+    {
+        "date": "2025-08-14",
+        "query": "bari ilachi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 88
+    },
+    {
+        "date": "2025-08-16",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 25
+    },
+    {
+        "date": "2025-08-16",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+    },
+    {
+        "date": "2025-08-17",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 12
+    },
+    {
+        "date": "2025-08-17",
+        "query": "swat peach",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+    },
+    {
+        "date": "2025-08-17",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-08-17",
+        "query": "white cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 73
+    },
+    {
+        "date": "2025-08-18",
+        "query": "desi lemon",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 35.33
+    },
+    {
+        "date": "2025-08-18",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-08-18",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 4
+    },
+    {
+        "date": "2025-08-19",
+        "query": "desi shakkar",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 55
+    },
+    {
+        "date": "2025-08-19",
+        "query": "garam mall",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 37
+    },
+    {
+        "date": "2025-08-19",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 9.67
+    },
+    {
+        "date": "2025-08-20",
+        "query": "desi shakkar",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 55
+    },
+    {
+        "date": "2025-08-21",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-08-21",
+        "query": "the plant mall",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+    },
+    {
+        "date": "2025-08-22",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 10.25
+    },
+    {
+        "date": "2025-08-22",
+        "query": "\u0627\u0644\u0627\u0626\u0686\u06cc",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 35
+    },
+    {
+        "date": "2025-08-23",
+        "query": "badi elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 80
+    },
+    {
+        "date": "2025-08-23",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 21
+    },
+    {
+        "date": "2025-08-23",
+        "query": "plant mall",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+    },
+    {
+        "date": "2025-08-23",
+        "query": "swat peach",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 5
+    },
+    {
+        "date": "2025-08-25",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-08-26",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-08-27",
+        "query": "meetha soda meaning in english",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 75
+    },
+    {
+        "date": "2025-08-28",
+        "query": "black cardamom in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 51
+    },
+    {
+        "date": "2025-08-28",
+        "query": "mitha soda in english",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 83
+    },
+    {
+        "date": "2025-08-28",
+        "query": "rolled oats pakistan",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 42
+    },
+    {
+        "date": "2025-08-28",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-08-29",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 87
+    },
+    {
+        "date": "2025-08-29",
+        "query": "meetha soda in english",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 78.33
+    },
+    {
+        "date": "2025-08-29",
+        "query": "small cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 58
+    },
+    {
+        "date": "2025-08-29",
+        "query": "swat premium",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-08-29",
+        "query": "\u0627\u0644\u0627\u0626\u0686\u06cc",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 50
+    },
+    {
+        "date": "2025-08-30",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 87.5
+    },
+    {
+        "date": "2025-08-30",
+        "query": "green elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 71
+    },
+    {
+        "date": "2025-08-30",
+        "query": "niazbo seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 12
+    },
+    {
+        "date": "2025-08-31",
+        "query": "cardamom green",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 82
+    },
+    {
+        "date": "2025-08-31",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 85
+    },
+    {
+        "date": "2025-08-31",
+        "query": "green elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 73
+    },
+    {
+        "date": "2025-08-31",
+        "query": "nuskha e qalb",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 33
+    },
+    {
+        "date": "2025-08-31",
+        "query": "order peaches online",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+    },
+    {
+        "date": "2025-08-31",
+        "query": "small cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 61
+    },
+    {
+        "date": "2025-08-31",
+        "query": "\u0679\u0627\u0679\u0631\u06cc",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 15.25
+    },
+    {
+        "date": "2025-09-01",
+        "query": "badian khatai",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 43
+    },
+    {
+        "date": "2025-09-01",
+        "query": "choti elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 94
+    },
+    {
+        "date": "2025-09-01",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 84
+    },
+    {
+        "date": "2025-09-01",
+        "query": "kala zeera",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 61.5
+    },
+    {
+        "date": "2025-09-01",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+    },
+    {
+        "date": "2025-09-01",
+        "query": "swat premium",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+    },
+    {
+        "date": "2025-09-01",
+        "query": "\u0627\u0644\u0627\u0626\u0686\u06cc",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 52.8
+    },
+    {
+        "date": "2025-09-02",
+        "query": "badi elaichi in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 71
+    },
+    {
+        "date": "2025-09-02",
+        "query": "badian khatai",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 42
+    },
+    {
+        "date": "2025-09-02",
+        "query": "basil seeds in urdu meaning",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 61
+    },
+    {
+        "date": "2025-09-02",
+        "query": "black cardamom in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 74
+    },
+    {
+        "date": "2025-09-02",
+        "query": "black cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 91
+    },
+    {
+        "date": "2025-09-02",
+        "query": "black cumin in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 86
+    },
+    {
+        "date": "2025-09-02",
+        "query": "black cumin meaning in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 80
+    },
+    {
+        "date": "2025-09-02",
+        "query": "black cumin seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 84
+    },
+    {
+        "date": "2025-09-02",
+        "query": "black cumin seeds in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 79
+    },
+    {
+        "date": "2025-09-02",
+        "query": "black jeera",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 74
+    },
+    {
+        "date": "2025-09-02",
+        "query": "black jeeragam",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 99
+    },
+    {
+        "date": "2025-09-02",
+        "query": "black zeera",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 69
+    },
+    {
+        "date": "2025-09-02",
+        "query": "choti elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 85.75
+    },
+    {
+        "date": "2025-09-02",
+        "query": "cumin black seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 87
+    },
+    {
+        "date": "2025-09-02",
+        "query": "dried grapes",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 68
+    },
+    {
+        "date": "2025-09-02",
+        "query": "dry methi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 94
+    },
+    {
+        "date": "2025-09-02",
+        "query": "dry methi leaves",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 64
+    },
+    {
+        "date": "2025-09-02",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 81
+    },
+    {
+        "date": "2025-09-02",
+        "query": "green cardamom in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 56.67
+    },
+    {
+        "date": "2025-09-02",
+        "query": "green elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 72.5
+    },
+    {
+        "date": "2025-09-02",
+        "query": "kala zeera in english",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 91
+    },
+    {
+        "date": "2025-09-02",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 27
+    },
+    {
+        "date": "2025-09-02",
+        "query": "keri powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+    },
+    {
+        "date": "2025-09-02",
+        "query": "meetha soda in english",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 76
+    },
+    {
+        "date": "2025-09-02",
+        "query": "methi dry leaves",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 43
+    },
+    {
+        "date": "2025-09-02",
+        "query": "niazbo seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 12
+    },
+    {
+        "date": "2025-09-02",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 62
+    },
+    {
+        "date": "2025-09-02",
+        "query": "organic rolled oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 39
+    },
+    {
+        "date": "2025-09-02",
+        "query": "raisin grapes",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 43
+    },
+    {
+        "date": "2025-09-02",
+        "query": "saunf",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 56
+    },
+    {
+        "date": "2025-09-02",
+        "query": "small cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 56
+    },
+    {
+        "date": "2025-09-02",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 69
+    },
+    {
+        "date": "2025-09-02",
+        "query": "swiss style muesli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 61
+    },
+    {
+        "date": "2025-09-02",
+        "query": "what is meetha soda",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 84
+    },
+    {
+        "date": "2025-09-02",
+        "query": "what is mitha soda",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 84
+    },
+    {
+        "date": "2025-09-02",
+        "query": "\u0679\u0627\u0679\u0631\u06cc \u06a9\u06cc\u0627 \u06c1\u06d2",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 38
+    },
+    {
+        "date": "2025-09-03",
+        "query": "black cumin seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 82
+    },
+    {
+        "date": "2025-09-03",
+        "query": "black seed name in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 82
+    },
+    {
+        "date": "2025-09-03",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 82
+    },
+    {
+        "date": "2025-09-03",
+        "query": "green elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 70
+    },
+    {
+        "date": "2025-09-03",
+        "query": "\u0628\u0691\u06cc \u0627\u0644\u0627\u0626\u0686\u06cc",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 34
+    },
+    {
+        "date": "2025-09-04",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 92
+    },
+    {
+        "date": "2025-09-04",
+        "query": "green elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 70
+    },
+    {
+        "date": "2025-09-04",
+        "query": "saunf",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 52.5
+    },
+    {
+        "date": "2025-09-05",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 82
+    },
+    {
+        "date": "2025-09-05",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 66
+    },
+    {
+        "date": "2025-09-05",
+        "query": "tatri salt",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-09-06",
+        "query": "black seed urdu name",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 85
+    },
+    {
+        "date": "2025-09-06",
+        "query": "buy peaches online",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+    },
+    {
+        "date": "2025-09-06",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 82
+    },
+    {
+        "date": "2025-09-06",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 30
+    },
+    {
+        "date": "2025-09-06",
+        "query": "nuskha e qalb",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 28
+    },
+    {
+        "date": "2025-09-06",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-09-06",
+        "query": "suraj grain",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-09-06",
+        "query": "tatri",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 34
+    },
+    {
+        "date": "2025-09-06",
+        "query": "tatri powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 36
+    },
+    {
+        "date": "2025-09-06",
+        "query": "tatri salt",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-09-06",
+        "query": "\u0627\u0644\u0627\u0626\u0686\u06cc",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 45
+    },
+    {
+        "date": "2025-09-07",
+        "query": "badian khatai",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 32.5
+    },
+    {
+        "date": "2025-09-07",
+        "query": "black cumin in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 76
+    },
+    {
+        "date": "2025-09-07",
+        "query": "choti elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 91
+    },
+    {
+        "date": "2025-09-07",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 75.5
+    },
+    {
+        "date": "2025-09-07",
+        "query": "green cardamom meaning in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 69
+    },
+    {
+        "date": "2025-09-07",
+        "query": "green elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 78
+    },
+    {
+        "date": "2025-09-07",
+        "query": "kala zeera",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 52.5
+    },
+    {
+        "date": "2025-09-07",
+        "query": "mitha soda in english",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 84
+    },
+    {
+        "date": "2025-09-07",
+        "query": "suraj grain",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 102
+    },
+    {
+        "date": "2025-09-07",
+        "query": "swat premium",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 8.67
+    },
+    {
+        "date": "2025-09-07",
+        "query": "white pepper whole",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 78
+    },
+    {
+        "date": "2025-09-08",
+        "query": "black salt",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 100
+    },
+    {
+        "date": "2025-09-08",
+        "query": "black salt water",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 80
+    },
+    {
+        "date": "2025-09-08",
+        "query": "cumin powder in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 87
+    },
+    {
+        "date": "2025-09-08",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 61
+    },
+    {
+        "date": "2025-09-08",
+        "query": "green elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 58
+    },
+    {
+        "date": "2025-09-08",
+        "query": "kala namak",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 64
+    },
+    {
+        "date": "2025-09-08",
+        "query": "mitha soda in english",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 83
+    },
+    {
+        "date": "2025-09-08",
+        "query": "peaches online shopping",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-09-08",
+        "query": "suraj grain",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 80
+    },
+    {
+        "date": "2025-09-08",
+        "query": "swat peach",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-09-08",
+        "query": "tatri in english",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 59
+    },
+    {
+        "date": "2025-09-08",
+        "query": "\u062c\u0648 \u06a9\u0627 \u062f\u0644\u06cc\u06c1 in english",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 33
+    },
+    {
+        "date": "2025-09-09",
+        "query": "black cumin seed in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 69
+    },
+    {
+        "date": "2025-09-09",
+        "query": "black salt",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 99
+    },
+    {
+        "date": "2025-09-09",
+        "query": "cumin urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 97
+    },
+    {
+        "date": "2025-09-09",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 73
+    },
+    {
+        "date": "2025-09-09",
+        "query": "green elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 56
+    },
+    {
+        "date": "2025-09-09",
+        "query": "kala namak",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 68
+    },
+    {
+        "date": "2025-09-09",
+        "query": "meetha soda in english",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 74
+    },
+    {
+        "date": "2025-09-09",
+        "query": "peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 4
+    },
+    {
+        "date": "2025-09-09",
+        "query": "rolled oats in pakistan",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 41
+    },
+    {
+        "date": "2025-09-10",
+        "query": "cardamom in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 73
+    },
+    {
+        "date": "2025-09-10",
+        "query": "fennel seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 95
+    },
+    {
+        "date": "2025-09-10",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 68
+    },
+    {
+        "date": "2025-09-10",
+        "query": "green elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 57
+    },
+    {
+        "date": "2025-09-10",
+        "query": "niazbo leaves",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+    },
+    {
+        "date": "2025-09-10",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-09-10",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8
+    },
+    {
+        "date": "2025-09-10",
+        "query": "swat premium",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-09-10",
+        "query": "the plants mall",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 2
+    },
+    {
+        "date": "2025-09-11",
+        "query": "black cumin seed in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 66
+    },
+    {
+        "date": "2025-09-11",
+        "query": "black salt",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 99
+    },
+    {
+        "date": "2025-09-11",
+        "query": "black seed name in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 97
+    },
+    {
+        "date": "2025-09-11",
+        "query": "cardamom in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 71
+    },
+    {
+        "date": "2025-09-11",
+        "query": "cumin powder in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 86
+    },
+    {
+        "date": "2025-09-11",
+        "query": "fennel seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 98
+    },
+    {
+        "date": "2025-09-11",
+        "query": "flax flour",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 80
+    },
+    {
+        "date": "2025-09-11",
+        "query": "green cardamom",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 65
+    },
+    {
+        "date": "2025-09-11",
+        "query": "green elaichi",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 55
+    },
+    {
+        "date": "2025-09-11",
+        "query": "kala namak",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 79
+    },
+    {
+        "date": "2025-09-11",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 48.5
+    },
+    {
+        "date": "2025-09-11",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 47.5
+    },
+    {
+        "date": "2025-09-11",
+        "query": "organic rolled oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 40
+    },
+    {
+        "date": "2025-09-11",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 13
+    },
+    {
+        "date": "2025-09-11",
+        "query": "rolled oats in pakistan",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 37
+    },
+    {
+        "date": "2025-09-11",
+        "query": "saunf seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 64
+    },
+    {
+        "date": "2025-09-11",
+        "query": "soff seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 61.5
+    },
+    {
+        "date": "2025-09-11",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 53
+    },
+    {
+        "date": "2025-09-11",
+        "query": "sse peach",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+    },
+    {
+        "date": "2025-09-11",
+        "query": "swat fruit",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-09-11",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 6
+    },
+    {
+        "date": "2025-09-11",
+        "query": "swat premium",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 9.5
+    },
+    {
+        "date": "2025-09-11",
+        "query": "swiss style muesli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 33
+    },
+    {
+        "date": "2025-09-11",
+        "query": "white cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 82.67
+    },
+    {
+        "date": "2025-09-11",
+        "query": "\u0633\u0628\u0632 \u0627\u0644\u0627\u0626\u0686\u06cc",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 68
+    },
+    {
+        "date": "2025-09-12",
+        "query": "black cumin seeds in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 76
+    },
+    {
+        "date": "2025-09-12",
+        "query": "cardamom urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 69
+    },
+    {
+        "date": "2025-09-12",
+        "query": "cumin powder in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 85
+    },
+    {
+        "date": "2025-09-12",
+        "query": "dried grapes",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 54
+    },
+    {
+        "date": "2025-09-12",
+        "query": "dry grapes",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 57
+    },
+    {
+        "date": "2025-09-12",
+        "query": "fennel seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 91.25
+    },
+    {
+        "date": "2025-09-12",
+        "query": "flax flour",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 85
+    },
+    {
+        "date": "2025-09-12",
+        "query": "kala zeera",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 41
+    },
+    {
+        "date": "2025-09-12",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 62
+    },
+    {
+        "date": "2025-09-12",
+        "query": "nuskha e qalb",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 24
+    },
+    {
+        "date": "2025-09-12",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 46
+    },
+    {
+        "date": "2025-09-12",
+        "query": "organic rolled oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 49
+    },
+    {
+        "date": "2025-09-12",
+        "query": "saunf seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 66.33
+    },
+    {
+        "date": "2025-09-12",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 47
+    },
+    {
+        "date": "2025-09-12",
+        "query": "swat premium",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+    },
+    {
+        "date": "2025-09-12",
+        "query": "tatri salt",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 8
+    },
+    {
+        "date": "2025-09-12",
+        "query": "white cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 83
+    },
+    {
+        "date": "2025-09-13",
+        "query": "antimicrobial",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 13
+    },
+    {
+        "date": "2025-09-13",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 58
+    },
+    {
+        "date": "2025-09-13",
+        "query": "niazbo plant seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-09-13",
+        "query": "niazbo seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 10.5
+    },
+    {
+        "date": "2025-09-13",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 47
+    },
+    {
+        "date": "2025-09-13",
+        "query": "saunf seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 62
+    },
+    {
+        "date": "2025-09-13",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 44.5
+    },
+    {
+        "date": "2025-09-13",
+        "query": "swat peach",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-09-13",
+        "query": "swat peaches",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+    },
+    {
+        "date": "2025-09-13",
+        "query": "swat premium",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+    },
+    {
+        "date": "2025-09-13",
+        "query": "swiss style muesli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 31
+    },
+    {
+        "date": "2025-09-14",
+        "query": "fennel seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 90
+    },
+    {
+        "date": "2025-09-14",
+        "query": "flax flour",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 78
+    },
+    {
+        "date": "2025-09-14",
+        "query": "lemon salt in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-09-14",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 48
+    },
+    {
+        "date": "2025-09-14",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 46
+    },
+    {
+        "date": "2025-09-14",
+        "query": "organic rolled oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 41
+    },
+    {
+        "date": "2025-09-14",
+        "query": "saunf seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 63
+    },
+    {
+        "date": "2025-09-14",
+        "query": "soof seed",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 74
+    },
+    {
+        "date": "2025-09-14",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 46
+    },
+    {
+        "date": "2025-09-14",
+        "query": "swiss style muesli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 30
+    },
+    {
+        "date": "2025-09-14",
+        "query": "white cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 79
+    },
+    {
+        "date": "2025-09-15",
+        "query": "flax flour",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 75
+    },
+    {
+        "date": "2025-09-15",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 58
+    },
+    {
+        "date": "2025-09-15",
+        "query": "niazbo seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-09-15",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 63
+    },
+    {
+        "date": "2025-09-15",
+        "query": "organic rolled oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 40
+    },
+    {
+        "date": "2025-09-15",
+        "query": "peach fruit box",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+    },
+    {
+        "date": "2025-09-15",
+        "query": "saunf seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 68
+    },
+    {
+        "date": "2025-09-15",
+        "query": "soof seed",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 64
+    },
+    {
+        "date": "2025-09-15",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 46
+    },
+    {
+        "date": "2025-09-15",
+        "query": "swat fruit",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-09-15",
+        "query": "swat peach",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-09-15",
+        "query": "swiss style muesli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 30
+    },
+    {
+        "date": "2025-09-15",
+        "query": "white cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 79
+    },
+    {
+        "date": "2025-09-16",
+        "query": "fennel seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 89
+    },
+    {
+        "date": "2025-09-16",
+        "query": "flax flour",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 73
+    },
+    {
+        "date": "2025-09-16",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 46
+    },
+    {
+        "date": "2025-09-16",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 27
+    },
+    {
+        "date": "2025-09-16",
+        "query": "organic rolled oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 41
+    },
+    {
+        "date": "2025-09-16",
+        "query": "saunf seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 64
+    },
+    {
+        "date": "2025-09-16",
+        "query": "soof seed",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 59
+    },
+    {
+        "date": "2025-09-16",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 47
+    },
+    {
+        "date": "2025-09-16",
+        "query": "swat premium",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 4.33
+    },
+    {
+        "date": "2025-09-16",
+        "query": "swiss style muesli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 32
+    },
+    {
+        "date": "2025-09-16",
+        "query": "white cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 76
+    },
+    {
+        "date": "2025-09-17",
+        "query": "fennel seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 91
+    },
+    {
+        "date": "2025-09-17",
+        "query": "flax flour",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 73
+    },
+    {
+        "date": "2025-09-17",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 59
+    },
+    {
+        "date": "2025-09-17",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 44
+    },
+    {
+        "date": "2025-09-17",
+        "query": "organic rolled oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 39
+    },
+    {
+        "date": "2025-09-17",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-09-17",
+        "query": "saunf seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 63
+    },
+    {
+        "date": "2025-09-17",
+        "query": "soof seed",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 59
+    },
+    {
+        "date": "2025-09-17",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 47
+    },
+    {
+        "date": "2025-09-17",
+        "query": "swat peach",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 5
+    },
+    {
+        "date": "2025-09-17",
+        "query": "swat premium",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-09-17",
+        "query": "swiss style muesli",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 31
+    },
+    {
+        "date": "2025-09-17",
+        "query": "white cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 74
+    },
+    {
+        "date": "2025-09-18",
+        "query": "black cumin seed in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 67
+    },
+    {
+        "date": "2025-09-18",
+        "query": "black salt",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 97
+    },
+    {
+        "date": "2025-09-18",
+        "query": "cardamom in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 76.5
+    },
+    {
+        "date": "2025-09-18",
+        "query": "cumin powder in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 85
+    },
+    {
+        "date": "2025-09-18",
+        "query": "fennel seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 91
+    },
+    {
+        "date": "2025-09-18",
+        "query": "flax flour",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 74
+    },
+    {
+        "date": "2025-09-18",
+        "query": "kalonji powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 18
+    },
+    {
+        "date": "2025-09-18",
+        "query": "keri powder",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+    },
+    {
+        "date": "2025-09-18",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 56
+    },
+    {
+        "date": "2025-09-18",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 61
+    },
+    {
+        "date": "2025-09-18",
+        "query": "organic rolled oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 40
+    },
+    {
+        "date": "2025-09-18",
+        "query": "pure ghee",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 98
+    },
+    {
+        "date": "2025-09-18",
+        "query": "saunf seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 62
+    },
+    {
+        "date": "2025-09-18",
+        "query": "soof seed",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 58
+    },
+    {
+        "date": "2025-09-18",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 44.5
+    },
+    {
+        "date": "2025-09-18",
+        "query": "swat premium",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 10
+    },
+    {
+        "date": "2025-09-18",
+        "query": "white cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 78
+    },
+    {
+        "date": "2025-09-19",
+        "query": "black cumin seeds meaning in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 69
+    },
+    {
+        "date": "2025-09-19",
+        "query": "cardamom urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 81
+    },
+    {
+        "date": "2025-09-19",
+        "query": "cumin seed in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 74
+    },
+    {
+        "date": "2025-09-19",
+        "query": "fennel seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 98
+    },
+    {
+        "date": "2025-09-19",
+        "query": "flax flour",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 70
+    },
+    {
+        "date": "2025-09-19",
+        "query": "lemon salt in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-09-19",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 41
+    },
+    {
+        "date": "2025-09-19",
+        "query": "niazbo seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 12
+    },
+    {
+        "date": "2025-09-19",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 45.5
+    },
+    {
+        "date": "2025-09-19",
+        "query": "organic rolled oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 45
+    },
+    {
+        "date": "2025-09-19",
+        "query": "saunf seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 31.33
+    },
+    {
+        "date": "2025-09-19",
+        "query": "soff seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 1
+    },
+    {
+        "date": "2025-09-19",
+        "query": "soof seed",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 61
+    },
+    {
+        "date": "2025-09-19",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 44
+    },
+    {
+        "date": "2025-09-19",
+        "query": "wheat porridge in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 46.5
+    },
+    {
+        "date": "2025-09-19",
+        "query": "white cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 75
+    },
+    {
+        "date": "2025-09-20",
+        "query": "fennel seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 95
+    },
+    {
+        "date": "2025-09-20",
+        "query": "flax flour",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 59
+    },
+    {
+        "date": "2025-09-20",
+        "query": "lemon salt in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-09-20",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 42
+    },
+    {
+        "date": "2025-09-20",
+        "query": "niazbo seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 12
+    },
+    {
+        "date": "2025-09-20",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 46
+    },
+    {
+        "date": "2025-09-20",
+        "query": "organic rolled oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 45
+    },
+    {
+        "date": "2025-09-20",
+        "query": "saunf seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 15
+    },
+    {
+        "date": "2025-09-20",
+        "query": "soff seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+    },
+    {
+        "date": "2025-09-20",
+        "query": "soof seed",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 76
+    },
+    {
+        "date": "2025-09-20",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 43
+    },
+    {
+        "date": "2025-09-20",
+        "query": "swat fruit",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 12
+    },
+    {
+        "date": "2025-09-20",
+        "query": "white cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 79
+    },
+    {
+        "date": "2025-09-21",
+        "query": "flax flour",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 72
+    },
+    {
+        "date": "2025-09-21",
+        "query": "jawar ka atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-09-21",
+        "query": "lemon salt in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 12
+    },
+    {
+        "date": "2025-09-21",
+        "query": "niazbo seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 9
+    },
+    {
+        "date": "2025-09-21",
+        "query": "pathar chakki atta",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7
+    },
+    {
+        "date": "2025-09-21",
+        "query": "swat premium",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+    },
+    {
+        "date": "2025-09-22",
+        "query": "desi ghee",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 81
+    },
+    {
+        "date": "2025-09-22",
+        "query": "desi ghee india",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 67
+    },
+    {
+        "date": "2025-09-22",
+        "query": "fennel seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 91
+    },
+    {
+        "date": "2025-09-22",
+        "query": "flax flour",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 79
+    },
+    {
+        "date": "2025-09-22",
+        "query": "lemon salt in urdu",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 12
+    },
+    {
+        "date": "2025-09-22",
+        "query": "natural oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 41
+    },
+    {
+        "date": "2025-09-22",
+        "query": "organic oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 44
+    },
+    {
+        "date": "2025-09-22",
+        "query": "organic rolled oats",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 45
+    },
+    {
+        "date": "2025-09-22",
+        "query": "saunf seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 15.33
+    },
+    {
+        "date": "2025-09-22",
+        "query": "soff seeds",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+    },
+    {
+        "date": "2025-09-22",
+        "query": "soof seed",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 82
+    },
+    {
+        "date": "2025-09-22",
+        "query": "sour pomegranate",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 46
+    },
+    {
+        "date": "2025-09-22",
+        "query": "white cumin",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 78
+    },
+    {
+        "date": "2025-09-22",
+        "query": "\u0646\u06cc\u0627\u0632\u0628\u0648",
+        "country": "pak",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+    }
+]

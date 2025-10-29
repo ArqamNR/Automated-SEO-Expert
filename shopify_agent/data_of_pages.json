@@ -1,0 +1,4027 @@
+[
+    {
+        "url": "https://theplantsmall.com/",
+        "clicks": 7,
+        "impressions": 17,
+        "ctr": 0.41,
+        "position": 1.59,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://dzj.me/389a03a4780a8524c9036f214197fb17-show.html",
+            "https://theplantsmall.com/store/product/340/"
+        ],
+        "richResultsResult": {},
+        "lcp": "0.9\u00a0s",
+        "cls": "0.003",
+        "inp": "2.3\u00a0s",
+        "lastCrawlTime": "2025-09-25T23:23:39Z",
+        "googleCanonical": "https://theplantsmall.com/",
+        "userCanonical": "https://theplantsmall.com/",
+        "pagespeed_score": 93.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/fresh-peach-of-swat-valley",
+        "clicks": 3,
+        "impressions": 58,
+        "ctr": 0.05,
+        "position": 7.59,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9899703861561"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Premium Swat Valley Peach  \u0633\u0648\u0627\u062a \u06a9\u0627 \u0644\u0630\u06cc\u0630 \u0622\u0691\u0648     in 5 Kg Box",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Premium Swat Valley Peach  \u0633\u0648\u0627\u062a \u06a9\u0627 \u0644\u0630\u06cc\u0630 \u0622\u0691\u0648     in 5 Kg Box - 2400",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.9\u00a0s",
+        "cls": "0.003",
+        "inp": "2.1\u00a0s",
+        "lastCrawlTime": "2025-09-23T02:32:12Z",
+        "googleCanonical": "https://theplantsmall.com/products/fresh-peach-of-swat-valley",
+        "userCanonical": "https://theplantsmall.com/products/fresh-peach-of-swat-valley",
+        "pagespeed_score": 89.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/whole-wheat-flour-stone-ground-pathar-chakki-atta",
+        "clicks": 2,
+        "impressions": 25,
+        "ctr": 0.08,
+        "position": 10.2,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/collections/breakfast-healthy-grains"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Whole Wheat Flour \u2013 Stone Ground (Pathar Chakki Atta) | 100% Natural &amp; High Fiber",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Whole Wheat Flour \u2013 Stone Ground (Pathar Chakki Atta) | 100% Natural &amp; High Fiber - 5Kg",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Whole Wheat Flour \u2013 Stone Ground (Pathar Chakki Atta) | 100% Natural &amp; High Fiber - 10Kg",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Whole Wheat Flour \u2013 Stone Ground (Pathar Chakki Atta) | 100% Natural &amp; High Fiber - 20Kg",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.2\u00a0s",
+        "cls": "0.007",
+        "inp": "2.4\u00a0s",
+        "lastCrawlTime": "2025-09-23T05:32:13Z",
+        "googleCanonical": "https://theplantsmall.com/products/whole-wheat-flour-stone-ground-pathar-chakki-atta",
+        "userCanonical": "https://theplantsmall.com/products/whole-wheat-flour-stone-ground-pathar-chakki-atta",
+        "pagespeed_score": 94.0
+    },
+    {
+        "url": "https://theplantsmall.com/pages/contact",
+        "clicks": 1,
+        "impressions": 13,
+        "ctr": 0.08,
+        "position": 3.15,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_pages_1.xml?from=160445038905&to=160445038905",
+            "https://theplantsmall.com/"
+        ],
+        "richResultsResult": {},
+        "lcp": "4.8\u00a0s",
+        "cls": "0.003",
+        "inp": "5.3\u00a0s",
+        "lastCrawlTime": "2025-09-14T19:43:03Z",
+        "googleCanonical": "https://theplantsmall.com/pages/contact",
+        "userCanonical": "https://theplantsmall.com/pages/contact",
+        "pagespeed_score": 60.0
+    },
+    {
+        "url": "https://theplantsmall.com/collections",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 1,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/pages/membership",
+            "https://theplantsmall.com/collections/honey"
+        ],
+        "richResultsResult": {},
+        "lcp": "2.6\u00a0s",
+        "cls": "0.005",
+        "inp": "2.6\u00a0s",
+        "lastCrawlTime": "2025-09-20T19:30:41Z",
+        "googleCanonical": "https://theplantsmall.com/collections",
+        "userCanonical": "https://theplantsmall.com/collections",
+        "pagespeed_score": 82.0
+    },
+    {
+        "url": "https://theplantsmall.com/collections/all",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 1,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/collections/herbal-wellness.atom"
+        ],
+        "richResultsResult": {},
+        "lcp": "1.0\u00a0s",
+        "cls": "0.004",
+        "inp": "2.3\u00a0s",
+        "lastCrawlTime": "2025-09-20T12:38:38Z",
+        "googleCanonical": "https://theplantsmall.com/collections/all",
+        "userCanonical": "https://theplantsmall.com/collections/all",
+        "pagespeed_score": 94.0
+    },
+    {
+        "url": "https://theplantsmall.com/collections/honey-1",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 1,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/pages/membership",
+            "https://theplantsmall.com/"
+        ],
+        "richResultsResult": {},
+        "lcp": "1.4\u00a0s",
+        "cls": "0.072",
+        "inp": "2.1\u00a0s",
+        "lastCrawlTime": "2025-09-20T14:21:07Z",
+        "googleCanonical": "https://theplantsmall.com/collections/honey-1",
+        "userCanonical": "https://theplantsmall.com/collections/honey-1",
+        "pagespeed_score": 93.0
+    },
+    {
+        "url": "https://theplantsmall.com/collections/nuskha-e-qalb",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 28.33,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/"
+        ],
+        "richResultsResult": {},
+        "lcp": "1.9\u00a0s",
+        "cls": "0.007",
+        "inp": "2.2\u00a0s",
+        "lastCrawlTime": "2025-09-23T14:32:13Z",
+        "googleCanonical": "https://theplantsmall.com/collections/nuskha-e-qalb",
+        "userCanonical": "https://theplantsmall.com/collections/nuskha-e-qalb",
+        "pagespeed_score": 89.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/%F0%9F%8C%B6%EF%B8%8F-premium-red-chilli-powder-100-pure",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 70,
+        "indexstatusresult_verdict": "NEUTRAL",
+        "coverage_state": "Crawled - currently not indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9899703861561"
+        ],
+        "richResultsResult": {},
+        "lcp": "0.8\u00a0s",
+        "cls": "0.005",
+        "inp": "1.3\u00a0s",
+        "lastCrawlTime": "2025-08-23T02:54:17Z",
+        "googleCanonical": "https://theplantsmall.com/products/%F0%9F%8C%B6%EF%B8%8F-premium-red-chilli-powder-100-pure",
+        "userCanonical": "https://theplantsmall.com/products/%F0%9F%8C%B6%EF%B8%8F-premium-red-chilli-powder-100-pure",
+        "pagespeed_score": 98.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/badian-khatai-star-anise",
+        "clicks": 0,
+        "impressions": 6,
+        "ctr": 0,
+        "position": 32,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/products/black-mustard-seeds-rai-dana",
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9899703861561"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Badian Khatai - Star Anise",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Badian Khatai - Star Anise",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "2.1\u00a0s",
+        "cls": "0.026",
+        "inp": "2.5\u00a0s",
+        "lastCrawlTime": "2025-09-17T03:27:41Z",
+        "googleCanonical": "https://theplantsmall.com/products/badian-khatai-star-anise",
+        "userCanonical": "https://theplantsmall.com/products/badian-khatai-star-anise",
+        "pagespeed_score": 87.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/basil-seeds-sabja-seeds-%D8%AA%D8%AE%D9%85-%D9%85%D9%84%D9%86%DA%AF%D8%A7",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 61,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9909552972089"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Basil Seeds (Sabja Seeds) \u062a\u062e\u0645 \u0645\u0644\u0646\u06af\u0627",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Basil Seeds (Sabja Seeds) \u062a\u062e\u0645 \u0645\u0644\u0646\u06af\u0627 - 200g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.1\u00a0s",
+        "cls": "0.003",
+        "inp": "1.7\u00a0s",
+        "lastCrawlTime": "2025-09-18T19:15:11Z",
+        "googleCanonical": "https://theplantsmall.com/products/basil-seeds-sabja-seeds-%D8%AA%D8%AE%D9%85-%D9%85%D9%84%D9%86%DA%AF%D8%A7",
+        "userCanonical": "https://theplantsmall.com/products/basil-seeds-sabja-seeds-%D8%AA%D8%AE%D9%85-%D9%85%D9%84%D9%86%DA%AF%D8%A7",
+        "pagespeed_score": 97.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/black-cardamom-%D8%A8%DA%91%DB%8C-%D8%A7%D9%84%D8%A7%D8%A6%DA%86%DB%8C",
+        "clicks": 0,
+        "impressions": 18,
+        "ctr": 0,
+        "position": 60.28,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/pages/membership"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "BLACK CARDAMOM \u0628\u0691\u06cc \u0627\u0644\u0627\u0626\u0686\u06cc",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "BLACK CARDAMOM \u0628\u0691\u06cc \u0627\u0644\u0627\u0626\u0686\u06cc - 50g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "BLACK CARDAMOM \u0628\u0691\u06cc \u0627\u0644\u0627\u0626\u0686\u06cc - 100g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.8\u00a0s",
+        "cls": "0.006",
+        "inp": "1.8\u00a0s",
+        "lastCrawlTime": "2025-09-05T07:31:42Z",
+        "googleCanonical": "https://theplantsmall.com/products/black-cardamom-%D8%A8%DA%91%DB%8C-%D8%A7%D9%84%D8%A7%D8%A6%DA%86%DB%8C",
+        "userCanonical": "https://theplantsmall.com/products/black-cardamom-%D8%A8%DA%91%DB%8C-%D8%A7%D9%84%D8%A7%D8%A6%DA%86%DB%8C",
+        "pagespeed_score": 99.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/black-cumin-seed-kala-zeera-%DA%A9%D8%A7%D9%84%D8%A7%D8%B2%DB%8C%D8%B1%DB%81",
+        "clicks": 0,
+        "impressions": 27,
+        "ctr": 0,
+        "position": 75.67,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": null,
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "BLACK CUMIN SEED (Kala Zeera \u06a9\u0627\u0644\u0627\u0632\u06cc\u0631\u06c1)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "BLACK CUMIN SEED (Kala Zeera \u06a9\u0627\u0644\u0627\u0632\u06cc\u0631\u06c1) - 50g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "BLACK CUMIN SEED (Kala Zeera \u06a9\u0627\u0644\u0627\u0632\u06cc\u0631\u06c1) - 100g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "BLACK CUMIN SEED (Kala Zeera \u06a9\u0627\u0644\u0627\u0632\u06cc\u0631\u06c1) - 250g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.9\u00a0s",
+        "cls": "0.215",
+        "inp": "2.0\u00a0s",
+        "lastCrawlTime": "2025-09-20T01:37:41Z",
+        "googleCanonical": "https://theplantsmall.com/products/black-cumin-seed-kala-zeera-%DA%A9%D8%A7%D9%84%D8%A7%D8%B2%DB%8C%D8%B1%DB%81",
+        "userCanonical": "https://theplantsmall.com/products/black-cumin-seed-kala-zeera-%DA%A9%D8%A7%D9%84%D8%A7%D8%B2%DB%8C%D8%B1%DB%81",
+        "pagespeed_score": 84.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/black-salt-kala-namak",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 85.75,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9899703861561"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Black Salt (Kala Namak)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Black Salt (Kala Namak)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.6\u00a0s",
+        "cls": "0.018",
+        "inp": "2.2\u00a0s",
+        "lastCrawlTime": "2025-09-22T01:59:55Z",
+        "googleCanonical": "https://theplantsmall.com/products/black-salt-kala-namak",
+        "userCanonical": "https://theplantsmall.com/products/black-salt-kala-namak",
+        "pagespeed_score": 93.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/cucumber-powder",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 56,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/products/crispy-fried-onions"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "CUCUMBER POWDER",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "CUCUMBER POWDER - 100g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "CUCUMBER POWDER - 300g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.6\u00a0s",
+        "cls": "0.012",
+        "inp": "2.3\u00a0s",
+        "lastCrawlTime": "2025-09-20T06:04:36Z",
+        "googleCanonical": "https://theplantsmall.com/products/cucumber-powder",
+        "userCanonical": "https://theplantsmall.com/products/cucumber-powder",
+        "pagespeed_score": 90.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/desi-shakkar-jaggery-powder-%D8%AF%DB%8C%D8%B3%DB%8C-%D8%B4%DA%A9%D8%B1-premium-quality",
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 45.4,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/collections/nuts-seeds-dried-fruits"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Desi Shakkar (Jaggery Powder)- ( \u062f\u06cc\u0633\u06cc \u0634\u06a9\u0631 )  Premium Quality",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Desi Shakkar (Jaggery Powder)- ( \u062f\u06cc\u0633\u06cc \u0634\u06a9\u0631 )  Premium Quality - 500g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Desi Shakkar (Jaggery Powder)- ( \u062f\u06cc\u0633\u06cc \u0634\u06a9\u0631 )  Premium Quality - 1000g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.7\u00a0s",
+        "cls": "0.219",
+        "inp": "1.8\u00a0s",
+        "lastCrawlTime": "2025-08-03T09:01:31Z",
+        "googleCanonical": "https://theplantsmall.com/products/desi-shakkar-jaggery-powder-%D8%AF%DB%8C%D8%B3%DB%8C-%D8%B4%DA%A9%D8%B1-premium-quality",
+        "userCanonical": "https://theplantsmall.com/products/desi-shakkar-jaggery-powder-%D8%AF%DB%8C%D8%B3%DB%8C-%D8%B4%DA%A9%D8%B1-premium-quality",
+        "pagespeed_score": 89.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/fennel-seeds-saunf",
+        "clicks": 0,
+        "impressions": 53,
+        "ctr": 0,
+        "position": 62.94,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9899703861561"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Fennel Seeds (Saunf)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Fennel Seeds (Saunf)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.8\u00a0s",
+        "cls": "0.003",
+        "inp": "2.4\u00a0s",
+        "lastCrawlTime": "2025-09-18T20:45:11Z",
+        "googleCanonical": "https://theplantsmall.com/products/fennel-seeds-saunf",
+        "userCanonical": "https://theplantsmall.com/products/fennel-seeds-saunf",
+        "pagespeed_score": 89.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/garam-masala-whole",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 37,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9909552972089"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "GARAM MASALA WHOLE",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "GARAM MASALA WHOLE - 100g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "GARAM MASALA WHOLE - 200g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.5\u00a0s",
+        "cls": "0.003",
+        "inp": "2.3\u00a0s",
+        "lastCrawlTime": "2025-09-21T09:58:46Z",
+        "googleCanonical": "https://theplantsmall.com/products/garam-masala-whole",
+        "userCanonical": "https://theplantsmall.com/products/garam-masala-whole",
+        "pagespeed_score": 90.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/green-cardamom-%DA%86%DA%BE%D9%88%D9%B9%DB%8C-%D8%A7%D9%84%D8%A7%D8%A6%DA%86%DB%8C",
+        "clicks": 0,
+        "impressions": 63,
+        "ctr": 0,
+        "position": 70.46,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9899703861561"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Green Cardamom \u0686\u06be\u0648\u0679\u06cc \u0627\u0644\u0627\u0626\u0686\u06cc",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Green Cardamom \u0686\u06be\u0648\u0679\u06cc \u0627\u0644\u0627\u0626\u0686\u06cc",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.8\u00a0s",
+        "cls": "0.219",
+        "inp": "1.8\u00a0s",
+        "lastCrawlTime": "2025-09-20T22:48:32Z",
+        "googleCanonical": "https://theplantsmall.com/products/green-cardamom-%DA%86%DA%BE%D9%88%D9%B9%DB%8C-%D8%A7%D9%84%D8%A7%D8%A6%DA%86%DB%8C",
+        "userCanonical": "https://theplantsmall.com/products/green-cardamom-%DA%86%DA%BE%D9%88%D9%B9%DB%8C-%D8%A7%D9%84%D8%A7%D8%A6%DA%86%DB%8C",
+        "pagespeed_score": 88.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/jawar-ka-atta-sorghum-flour-stone-ground",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 7,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/collections/flours-grains"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "PREMIUM JAWAR KA ATTA - SORGHUM FLOUR-STONE GROUND-SUGAR FREE",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "PREMIUM JAWAR KA ATTA - SORGHUM FLOUR-STONE GROUND-SUGAR FREE - 500g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "PREMIUM JAWAR KA ATTA - SORGHUM FLOUR-STONE GROUND-SUGAR FREE - 1000g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.8\u00a0s",
+        "cls": "0.005",
+        "inp": "2.4\u00a0s",
+        "lastCrawlTime": "2025-09-16T07:48:35Z",
+        "googleCanonical": "https://theplantsmall.com/products/jawar-ka-atta-sorghum-flour-stone-ground",
+        "userCanonical": "https://theplantsmall.com/products/jawar-ka-atta-sorghum-flour-stone-ground",
+        "pagespeed_score": 90.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/kalonji-black-seeds-powder-%DA%A9%D9%84%D9%88%D9%86%D8%AC%DB%8C-%DA%A9%D8%A7-%D9%BE%D8%A7%D8%A4%DA%88%D8%B1",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 39.2,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9909552972089"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Kalonji -Black Seeds Powder- \u06a9\u0644\u0648\u0646\u062c\u06cc \u06a9\u0627 \u067e\u0627\u0624\u0688\u0631",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Kalonji -Black Seeds Powder- \u06a9\u0644\u0648\u0646\u062c\u06cc \u06a9\u0627 \u067e\u0627\u0624\u0688\u0631 - 50g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Kalonji -Black Seeds Powder- \u06a9\u0644\u0648\u0646\u062c\u06cc \u06a9\u0627 \u067e\u0627\u0624\u0688\u0631 - 100g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.9\u00a0s",
+        "cls": "0.219",
+        "inp": "2.0\u00a0s",
+        "lastCrawlTime": "2025-09-19T05:58:17Z",
+        "googleCanonical": "https://theplantsmall.com/products/kalonji-black-seeds-powder-%DA%A9%D9%84%D9%88%D9%86%D8%AC%DB%8C-%DA%A9%D8%A7-%D9%BE%D8%A7%D8%A4%DA%88%D8%B1",
+        "userCanonical": "https://theplantsmall.com/products/kalonji-black-seeds-powder-%DA%A9%D9%84%D9%88%D9%86%D8%AC%DB%8C-%DA%A9%D8%A7-%D9%BE%D8%A7%D8%A4%DA%88%D8%B1",
+        "pagespeed_score": 74.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/kasuri-methi-powder-dried-fenugreek-leaves-powder",
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 60,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9909552972089"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "KASURI METHI POWDER -DRIED FENUGREEK LEAVES POWDER",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "KASURI METHI POWDER -DRIED FENUGREEK LEAVES POWDER",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.8\u00a0s",
+        "cls": "0.003",
+        "inp": "2.2\u00a0s",
+        "lastCrawlTime": "2025-09-19T22:37:39Z",
+        "googleCanonical": "https://theplantsmall.com/products/kasuri-methi-powder-dried-fenugreek-leaves-powder",
+        "userCanonical": "https://theplantsmall.com/products/kasuri-methi-powder-dried-fenugreek-leaves-powder",
+        "pagespeed_score": 98.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/keri-powder-%DA%A9%DA%86%DB%92-%D8%A2%D9%85-%DA%A9%D8%A7-%D9%BE%D8%A7%D8%A4%DA%88%D8%B1",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 3,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": null,
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Keri Powder - \u06a9\u0686\u06d2 \u0622\u0645 \u06a9\u0627 \u067e\u0627\u0624\u0688\u0631",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Keri Powder - \u06a9\u0686\u06d2 \u0622\u0645 \u06a9\u0627 \u067e\u0627\u0624\u0688\u0631",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.8\u00a0s",
+        "cls": "0.219",
+        "inp": "1.7\u00a0s",
+        "lastCrawlTime": "2025-09-20T00:24:41Z",
+        "googleCanonical": "https://theplantsmall.com/products/keri-powder-%DA%A9%DA%86%DB%92-%D8%A2%D9%85-%DA%A9%D8%A7-%D9%BE%D8%A7%D8%A4%DA%88%D8%B1",
+        "userCanonical": "https://theplantsmall.com/products/keri-powder-%DA%A9%DA%86%DB%92-%D8%A2%D9%85-%DA%A9%D8%A7-%D9%BE%D8%A7%D8%A4%DA%88%D8%B1",
+        "pagespeed_score": 88.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/meetha-soda-baking-soda-sodium-bicarbonate",
+        "clicks": 0,
+        "impressions": 13,
+        "ctr": 0,
+        "position": 79,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9899703861561"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Meetha Soda (Baking Soda / Sodium Bicarbonate)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Meetha Soda (Baking Soda / Sodium Bicarbonate)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.2\u00a0s",
+        "cls": "0.027",
+        "inp": "2.4\u00a0s",
+        "lastCrawlTime": "2025-09-20T20:15:41Z",
+        "googleCanonical": "https://theplantsmall.com/products/meetha-soda-baking-soda-sodium-bicarbonate",
+        "userCanonical": "https://theplantsmall.com/products/meetha-soda-baking-soda-sodium-bicarbonate",
+        "pagespeed_score": 95.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/millet-grain-bajra-%D8%A8%D8%A7%D8%AC%D8%B1%D8%A7",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 66.5,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/collections/flours-grains"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Millet Grain- Bajra  \u0628\u0627\u062c\u0631\u0627",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Millet Grain- Bajra  \u0628\u0627\u062c\u0631\u0627 - 500g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Millet Grain- Bajra  \u0628\u0627\u062c\u0631\u0627 - 1000g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.9\u00a0s",
+        "cls": "0.007",
+        "inp": "1.8\u00a0s",
+        "lastCrawlTime": "2025-08-02T05:46:23Z",
+        "googleCanonical": "https://theplantsmall.com/products/millet-grain-bajra-%D8%A8%D8%A7%D8%AC%D8%B1%D8%A7",
+        "userCanonical": "https://theplantsmall.com/products/millet-grain-bajra-%D8%A8%D8%A7%D8%AC%D8%B1%D8%A7",
+        "pagespeed_score": 99.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/muesli-swiss-style",
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 35.12,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/collections/breakfast-healthy-grains"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "MUESLI SWISS STYLE",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "MUESLI SWISS STYLE - 100g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MUESLI SWISS STYLE - 175g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MUESLI SWISS STYLE - 250g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MUESLI SWISS STYLE - 500g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.7\u00a0s",
+        "cls": "0.012",
+        "inp": "6.8\u00a0s",
+        "lastCrawlTime": "2025-08-21T14:41:59Z",
+        "googleCanonical": "https://theplantsmall.com/products/muesli-swiss-style",
+        "userCanonical": "https://theplantsmall.com/products/muesli-swiss-style",
+        "pagespeed_score": 54.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/organic-barley-flour-stone-ground-pathar-chakki-atta",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 12,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/products/oats-flour"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Organic Barley Flour \u2013 Stone Ground (Pathar Chakki Atta)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Organic Barley Flour \u2013 Stone Ground (Pathar Chakki Atta) - 500g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Organic Barley Flour \u2013 Stone Ground (Pathar Chakki Atta) - 1000g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.7\u00a0s",
+        "cls": "0.003",
+        "inp": "2.5\u00a0s",
+        "lastCrawlTime": "2025-09-14T18:13:03Z",
+        "googleCanonical": "https://theplantsmall.com/products/organic-barley-flour-stone-ground-pathar-chakki-atta",
+        "userCanonical": "https://theplantsmall.com/products/organic-barley-flour-stone-ground-pathar-chakki-atta",
+        "pagespeed_score": 87.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/organic-barley-sattu",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 40,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/collections/breakfast-healthy-grains"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Whole Grain Barley Sattu",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Whole Grain Barley Sattu - 500g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Whole Grain Barley Sattu - 1000g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.2\u00a0s",
+        "cls": "0.003",
+        "inp": "2.5\u00a0s",
+        "lastCrawlTime": "2025-08-03T07:31:31Z",
+        "googleCanonical": "https://theplantsmall.com/products/organic-barley-sattu",
+        "userCanonical": "https://theplantsmall.com/products/organic-barley-sattu",
+        "pagespeed_score": 91.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/organic-flax-seeds-flour-stone-ground",
+        "clicks": 0,
+        "impressions": 11,
+        "ctr": 0,
+        "position": 74.45,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/collections/nuts-seeds-dried-fruits"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Flax Seeds Flour - Stone Ground",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Flax Seeds Flour - Stone Ground - 500g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Flax Seeds Flour - Stone Ground - 1000g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.8\u00a0s",
+        "cls": "0.005",
+        "inp": "2.3\u00a0s",
+        "lastCrawlTime": "2025-09-05T19:24:42Z",
+        "googleCanonical": "https://theplantsmall.com/products/organic-flax-seeds-flour-stone-ground",
+        "userCanonical": "https://theplantsmall.com/products/organic-flax-seeds-flour-stone-ground",
+        "pagespeed_score": 90.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/organic-fresh-niazbo-leaves-ocimum-basilicum-%D9%86%DB%8C%D8%A7%D8%B2%D8%A8%D9%88",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9909552972089"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Organic Fresh Niazbo Leaves (Ocimum Basilicum)  \u0646\u06cc\u0627\u0632\u0628\u0648",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Organic Fresh Niazbo Leaves (Ocimum Basilicum)  \u0646\u06cc\u0627\u0632\u0628\u0648 - 40g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.9\u00a0s",
+        "cls": "0.005",
+        "inp": "2.0\u00a0s",
+        "lastCrawlTime": "2025-09-20T15:40:40Z",
+        "googleCanonical": "https://theplantsmall.com/products/organic-fresh-niazbo-leaves-ocimum-basilicum-%D9%86%DB%8C%D8%A7%D8%B2%D8%A8%D9%88",
+        "userCanonical": "https://theplantsmall.com/products/organic-fresh-niazbo-leaves-ocimum-basilicum-%D9%86%DB%8C%D8%A7%D8%B2%D8%A8%D9%88",
+        "pagespeed_score": 96.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/organic-niazbo-seeds-ocimum-basilicum",
+        "clicks": 0,
+        "impressions": 12,
+        "ctr": 0,
+        "position": 13.25,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9909552972089"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Organic Niazbo Seeds (Ocimum Basilicum)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Organic Niazbo Seeds (Ocimum Basilicum) - 200g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.0\u00a0s",
+        "cls": "0.015",
+        "inp": "1.9\u00a0s",
+        "lastCrawlTime": "2025-09-21T07:35:55Z",
+        "googleCanonical": "https://theplantsmall.com/products/organic-niazbo-seeds-ocimum-basilicum",
+        "userCanonical": "https://theplantsmall.com/products/organic-niazbo-seeds-ocimum-basilicum",
+        "pagespeed_score": 97.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/organic-rolled-oats-%D8%A2%D8%B1%DA%AF%DB%8C%D9%86%DA%A9-%D8%A7%D9%88%D9%B9%D8%B3-%D8%AF%D9%84%DB%8C%DB%81",
+        "clicks": 0,
+        "impressions": 42,
+        "ctr": 0,
+        "position": 47.14,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/collections/breakfast-healthy-grains"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Organic Rolled Oats  \u0622\u0631\u06af\u06cc\u0646\u06a9 \u0627\u0648\u0679\u0633 \u062f\u0644\u06cc\u06c1",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Organic Rolled Oats  \u0622\u0631\u06af\u06cc\u0646\u06a9 \u0627\u0648\u0679\u0633 \u062f\u0644\u06cc\u06c1 - 250g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Organic Rolled Oats  \u0622\u0631\u06af\u06cc\u0646\u06a9 \u0627\u0648\u0679\u0633 \u062f\u0644\u06cc\u06c1 - 500g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Organic Rolled Oats  \u0622\u0631\u06af\u06cc\u0646\u06a9 \u0627\u0648\u0679\u0633 \u062f\u0644\u06cc\u06c1 - 1000g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.7\u00a0s",
+        "cls": "0.03",
+        "inp": "1.8\u00a0s",
+        "lastCrawlTime": "2025-09-25T10:04:34Z",
+        "googleCanonical": "https://theplantsmall.com/products/organic-rolled-oats-%D8%A2%D8%B1%DA%AF%DB%8C%D9%86%DA%A9-%D8%A7%D9%88%D9%B9%D8%B3-%D8%AF%D9%84%DB%8C%DB%81",
+        "userCanonical": "https://theplantsmall.com/products/organic-rolled-oats-%D8%A2%D8%B1%DA%AF%DB%8C%D9%86%DA%A9-%D8%A7%D9%88%D9%B9%D8%B3-%D8%AF%D9%84%DB%8C%DB%81",
+        "pagespeed_score": 100
+    },
+    {
+        "url": "https://theplantsmall.com/products/organic-tulsi-holy-basil-fresh-leaves",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9909552972089"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "ORGANIC TULSI - HOLY BASIL FRESH LEAVES",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "ORGANIC TULSI - HOLY BASIL FRESH LEAVES - 40g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "2.2\u00a0s",
+        "cls": "0.012",
+        "inp": "2.6\u00a0s",
+        "lastCrawlTime": "2025-09-14T06:27:57Z",
+        "googleCanonical": "https://theplantsmall.com/products/organic-tulsi-holy-basil-fresh-leaves",
+        "userCanonical": "https://theplantsmall.com/products/organic-tulsi-holy-basil-fresh-leaves",
+        "pagespeed_score": 77.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/organic-yellow-mustard-seeds-%D9%BE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%D8%B3%D9%88%DA%BA",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 8,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/products/premium-achar-gosht-masala-%D8%A2%DA%86%D8%A7%D8%B1-%DA%AF%D9%88%D8%B4%D8%AA-%D9%85%D8%B5%D8%A7%D9%84%D8%AD%DB%81"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Yellow Mustard Seeds (\u067e\u06cc\u0644\u06cc \u0633\u0631\u0633\u0648\u06ba)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Yellow Mustard Seeds (\u067e\u06cc\u0644\u06cc \u0633\u0631\u0633\u0648\u06ba)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.8\u00a0s",
+        "cls": "0.03",
+        "inp": "1.2\u00a0s",
+        "lastCrawlTime": "2025-09-20T13:23:36Z",
+        "googleCanonical": "https://theplantsmall.com/products/organic-yellow-mustard-seeds-%D9%BE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%D8%B3%D9%88%DA%BA",
+        "userCanonical": "https://theplantsmall.com/products/organic-yellow-mustard-seeds-%D9%BE%DB%8C%D9%84%DB%8C-%D8%B3%D8%B1%D8%B3%D9%88%DA%BA",
+        "pagespeed_score": 99.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/premium-white-cumin-powder-%D9%BE%D8%B3%D8%A7-%DB%81%D9%88%D8%A7-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B2%DB%8C%D8%B1%DB%81",
+        "clicks": 0,
+        "impressions": 16,
+        "ctr": 0,
+        "position": 81.94,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": null,
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Premium White Cumin Powder  \u067e\u0633\u0627 \u06c1\u0648\u0627 \u0633\u0641\u06cc\u062f \u0632\u06cc\u0631\u06c1",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Premium White Cumin Powder  \u067e\u0633\u0627 \u06c1\u0648\u0627 \u0633\u0641\u06cc\u062f \u0632\u06cc\u0631\u06c1",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.6\u00a0s",
+        "cls": "0.005",
+        "inp": "1.8\u00a0s",
+        "lastCrawlTime": "2025-09-16T12:36:33Z",
+        "googleCanonical": "https://theplantsmall.com/products/premium-white-cumin-powder-%D9%BE%D8%B3%D8%A7-%DB%81%D9%88%D8%A7-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B2%DB%8C%D8%B1%DB%81",
+        "userCanonical": "https://theplantsmall.com/products/premium-white-cumin-powder-%D9%BE%D8%B3%D8%A7-%DB%81%D9%88%D8%A7-%D8%B3%D9%81%DB%8C%D8%AF-%D8%B2%DB%8C%D8%B1%DB%81",
+        "pagespeed_score": 100
+    },
+    {
+        "url": "https://theplantsmall.com/products/pure-desi-ghee-cow-milk-handcrafted-for-rich-aroma-taste",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 98,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/collections/honey"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Pure Desi Ghee Cow Milk \u2013 Handcrafted for Rich Aroma &amp; Taste",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Pure Desi Ghee Cow Milk \u2013 Handcrafted for Rich Aroma &amp; Taste - 500g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pure Desi Ghee Cow Milk \u2013 Handcrafted for Rich Aroma &amp; Taste - 1000g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.9\u00a0s",
+        "cls": "0.014",
+        "inp": "2.4\u00a0s",
+        "lastCrawlTime": "2025-09-14T05:58:04Z",
+        "googleCanonical": "https://theplantsmall.com/products/pure-desi-ghee-cow-milk-handcrafted-for-rich-aroma-taste",
+        "userCanonical": "https://theplantsmall.com/products/pure-desi-ghee-cow-milk-handcrafted-for-rich-aroma-taste",
+        "pagespeed_score": 89.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/qasori-methi-dried-fenugreek-leaves",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 53.5,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": null,
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "KASURI METHI- DRIED FENUGREEK LEAVES",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "KASURI METHI- DRIED FENUGREEK LEAVES - 25 g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "KASURI METHI- DRIED FENUGREEK LEAVES - 50g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "KASURI METHI- DRIED FENUGREEK LEAVES - 200g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.5\u00a0s",
+        "cls": "0.003",
+        "inp": "2.5\u00a0s",
+        "lastCrawlTime": "2025-08-02T06:36:20Z",
+        "googleCanonical": "https://theplantsmall.com/products/qasori-methi-dried-fenugreek-leaves",
+        "userCanonical": "https://theplantsmall.com/products/qasori-methi-dried-fenugreek-leaves",
+        "pagespeed_score": 90.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/raisins-dried-grapes",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 55.5,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/collections/nuts-seeds-dried-fruits"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "RAISINS- DRIED GRAPES",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "RAISINS- DRIED GRAPES - 200g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.1\u00a0s",
+        "cls": "0.003",
+        "inp": "2.5\u00a0s",
+        "lastCrawlTime": "2025-09-20T09:40:41Z",
+        "googleCanonical": "https://theplantsmall.com/products/raisins-dried-grapes",
+        "userCanonical": "https://theplantsmall.com/products/raisins-dried-grapes",
+        "pagespeed_score": 89.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/rolled-barley-porridge-%D8%AF%DB%8C%D8%B3%DB%8C-%D8%AC%D9%88-%DA%A9%D8%A7-%D8%AF%D9%84%DB%8C%DB%81",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 33,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9899703861561"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Rolled Barley Porridge   \u062f\u06cc\u0633\u06cc \u062c\u0648 \u06a9\u0627 \u062f\u0644\u06cc\u06c1",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Rolled Barley Porridge   \u062f\u06cc\u0633\u06cc \u062c\u0648 \u06a9\u0627 \u062f\u0644\u06cc\u06c1 - 250g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rolled Barley Porridge   \u062f\u06cc\u0633\u06cc \u062c\u0648 \u06a9\u0627 \u062f\u0644\u06cc\u06c1 - 500",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.6\u00a0s",
+        "cls": "0.22",
+        "inp": "1.8\u00a0s",
+        "lastCrawlTime": "2025-07-01T18:16:27Z",
+        "googleCanonical": "https://theplantsmall.com/products/rolled-barley-porridge-%D8%AF%DB%8C%D8%B3%DB%8C-%D8%AC%D9%88-%DA%A9%D8%A7-%D8%AF%D9%84%DB%8C%DB%81",
+        "userCanonical": "https://theplantsmall.com/products/rolled-barley-porridge-%D8%AF%DB%8C%D8%B3%DB%8C-%D8%AC%D9%88-%DA%A9%D8%A7-%D8%AF%D9%84%DB%8C%DB%81",
+        "pagespeed_score": 89.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/rolled-wheat-porridge-%D8%AF%DB%8C%D8%B3%DB%8C-%DA%AF%D9%86%D8%AF%D9%85-%DA%A9%D8%A7-%D8%AF%D9%84%DB%8C%DB%81",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 46.5,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": null,
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Rolled Wheat Porridge   \u062f\u06cc\u0633\u06cc \u06af\u0646\u062f\u0645 \u06a9\u0627 \u062f\u0644\u06cc\u06c1",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Rolled Wheat Porridge   \u062f\u06cc\u0633\u06cc \u06af\u0646\u062f\u0645 \u06a9\u0627 \u062f\u0644\u06cc\u06c1 - 250g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rolled Wheat Porridge   \u062f\u06cc\u0633\u06cc \u06af\u0646\u062f\u0645 \u06a9\u0627 \u062f\u0644\u06cc\u06c1 - 500g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rolled Wheat Porridge   \u062f\u06cc\u0633\u06cc \u06af\u0646\u062f\u0645 \u06a9\u0627 \u062f\u0644\u06cc\u06c1 - 1000g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.7\u00a0s",
+        "cls": "0.007",
+        "inp": "1.8\u00a0s",
+        "lastCrawlTime": "2025-09-20T00:07:39Z",
+        "googleCanonical": "https://theplantsmall.com/products/rolled-wheat-porridge-%D8%AF%DB%8C%D8%B3%DB%8C-%DA%AF%D9%86%D8%AF%D9%85-%DA%A9%D8%A7-%D8%AF%D9%84%DB%8C%DB%81",
+        "userCanonical": "https://theplantsmall.com/products/rolled-wheat-porridge-%D8%AF%DB%8C%D8%B3%DB%8C-%DA%AF%D9%86%D8%AF%D9%85-%DA%A9%D8%A7-%D8%AF%D9%84%DB%8C%DB%81",
+        "pagespeed_score": 100
+    },
+    {
+        "url": "https://theplantsmall.com/products/sour-pomegranate-seeds",
+        "clicks": 0,
+        "impressions": 15,
+        "ctr": 0,
+        "position": 47.8,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/products/kasuri-methi-powder-dried-fenugreek-leaves-powder",
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9909552972089"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Sour Pomegranate Seeds",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Sour Pomegranate Seeds - 50g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sour Pomegranate Seeds - 100g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sour Pomegranate Seeds - 200g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.6\u00a0s",
+        "cls": "0.012",
+        "inp": "2.2\u00a0s",
+        "lastCrawlTime": "2025-09-25T08:34:33Z",
+        "googleCanonical": "https://theplantsmall.com/products/sour-pomegranate-seeds",
+        "userCanonical": "https://theplantsmall.com/products/sour-pomegranate-seeds",
+        "pagespeed_score": 92.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/suraj-platinum-sella-rice-extra-long-grain-rice",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 43.5,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/products/premium-rice-flour-stone-ground"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Suraj Platinum Sella Rice Extra Long Grain Rice",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Suraj Platinum Sella Rice Extra Long Grain Rice - 1 Kg",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Suraj Platinum Sella Rice Extra Long Grain Rice - 5 Kg",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.0\u00a0s",
+        "cls": "0.003",
+        "inp": "2.3\u00a0s",
+        "lastCrawlTime": "2025-09-20T12:16:09Z",
+        "googleCanonical": "https://theplantsmall.com/products/suraj-platinum-sella-rice-extra-long-grain-rice",
+        "userCanonical": "https://theplantsmall.com/products/suraj-platinum-sella-rice-extra-long-grain-rice",
+        "pagespeed_score": 95.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/suraj-regular-basmati-rice-mota-rice",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 102,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/collections/flours-grains?page=2"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Suraj Regular Basmati Rice -Mota Rice",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Suraj Regular Basmati Rice -Mota Rice - 1 Kg",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Suraj Regular Basmati Rice -Mota Rice - 5 Kg",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.8\u00a0s",
+        "cls": "0.003",
+        "inp": "2.4\u00a0s",
+        "lastCrawlTime": "2025-09-19T07:28:15Z",
+        "googleCanonical": "https://theplantsmall.com/products/suraj-regular-basmati-rice-mota-rice",
+        "userCanonical": "https://theplantsmall.com/products/suraj-regular-basmati-rice-mota-rice",
+        "pagespeed_score": 95.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/suraj-supreme-basmati-rice",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 14,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/collections/flours-grains?page=2"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Suraj Supreme Basmati Rice",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Suraj Supreme Basmati Rice - 1 Kg",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Suraj Supreme Basmati Rice - 5 Kg",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.7\u00a0s",
+        "cls": "0.006",
+        "inp": "2.0\u00a0s",
+        "lastCrawlTime": "2025-09-23T10:33:18Z",
+        "googleCanonical": "https://theplantsmall.com/products/suraj-supreme-basmati-rice",
+        "userCanonical": "https://theplantsmall.com/products/suraj-supreme-basmati-rice",
+        "pagespeed_score": 91.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/tamarind-imli-%D8%A7%D9%85%D9%84%DB%8C",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 50.95,
+        "indexstatusresult_verdict": "NEUTRAL",
+        "coverage_state": "Crawled - currently not indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9912154849593",
+            "https://theplantsmall.com/collections/nuts-seeds-dried-fruits"
+        ],
+        "richResultsResult": {},
+        "lcp": "0.7\u00a0s",
+        "cls": "0.216",
+        "inp": "1.8\u00a0s",
+        "lastCrawlTime": "2025-07-12T03:58:19Z",
+        "googleCanonical": "https://theplantsmall.com/products/tamarind-imli-%D8%A7%D9%85%D9%84%DB%8C",
+        "userCanonical": "https://theplantsmall.com/products/tamarind-imli-%D8%A7%D9%85%D9%84%DB%8C",
+        "pagespeed_score": 88.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/tatri-%D9%B9%D8%A7%D9%B9%D8%B1%DB%8C-citric-acid-lemon-salt",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 22.79,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9899703861561"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Tatri \u2013 \u0679\u0627\u0679\u0631\u06cc (Citric Acid / Lemon Salt)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Tatri \u2013 \u0679\u0627\u0679\u0631\u06cc (Citric Acid / Lemon Salt)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "0.7\u00a0s",
+        "cls": "0.006",
+        "inp": "1.8\u00a0s",
+        "lastCrawlTime": "2025-09-21T12:58:47Z",
+        "googleCanonical": "https://theplantsmall.com/products/tatri-%D9%B9%D8%A7%D9%B9%D8%B1%DB%8C-citric-acid-lemon-salt",
+        "userCanonical": "https://theplantsmall.com/products/tatri-%D9%B9%D8%A7%D9%B9%D8%B1%DB%8C-citric-acid-lemon-salt",
+        "pagespeed_score": 99.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/white-cumin-seeds-safed-zeera",
+        "clicks": 0,
+        "impressions": 10,
+        "ctr": 0,
+        "position": 54,
+        "indexstatusresult_verdict": "NEUTRAL",
+        "coverage_state": "Crawled - currently not indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9899703861561"
+        ],
+        "richResultsResult": {},
+        "lcp": "1.8\u00a0s",
+        "cls": "0.003",
+        "inp": "2.5\u00a0s",
+        "lastCrawlTime": "2025-08-21T12:28:58Z",
+        "googleCanonical": "https://theplantsmall.com/products/white-cumin-seeds-safed-zeera",
+        "userCanonical": "https://theplantsmall.com/products/white-cumin-seeds-safed-zeera",
+        "pagespeed_score": 83.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/white-pepper-whole",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 78,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9909552972089"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "WHITE PEPPER WHOLE",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "WHITE PEPPER WHOLE - 50g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "WHITE PEPPER WHOLE - 100g",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"<parent_node>.description\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "2.0\u00a0s",
+        "cls": "0.003",
+        "inp": "2.4\u00a0s",
+        "lastCrawlTime": "2025-09-02T22:01:33Z",
+        "googleCanonical": "https://theplantsmall.com/products/white-pepper-whole",
+        "userCanonical": "https://theplantsmall.com/products/white-pepper-whole",
+        "pagespeed_score": 88.0
+    },
+    {
+        "url": "https://theplantsmall.com/products/whole-dried-ginger-sundh",
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 32.5,
+        "indexstatusresult_verdict": "PASS",
+        "coverage_state": "Submitted and indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/sitemap_products_1.xml?from=9897605857593&to=9899703861561"
+        ],
+        "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+                {
+                    "richResultType": "Product snippets",
+                    "items": [
+                        {
+                            "name": "Whole Dried Ginger (Sundh)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"review\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"aggregateRating\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"priceValidUntil\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "richResultType": "Merchant listings",
+                    "items": [
+                        {
+                            "name": "Whole Dried Ginger (Sundh)",
+                            "issues": [
+                                {
+                                    "issueMessage": "Missing field \"shippingDetails\"",
+                                    "severity": "WARNING"
+                                },
+                                {
+                                    "issueMessage": "Missing field \"hasMerchantReturnPolicy\"",
+                                    "severity": "WARNING"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "lcp": "1.0\u00a0s",
+        "cls": "0.012",
+        "inp": "2.3\u00a0s",
+        "lastCrawlTime": "2025-09-20T10:01:06Z",
+        "googleCanonical": "https://theplantsmall.com/products/whole-dried-ginger-sundh",
+        "userCanonical": "https://theplantsmall.com/products/whole-dried-ginger-sundh",
+        "pagespeed_score": 95.0
+    },
+    {
+        "url": "https://theplantsmall.com/store/product/25/",
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 100,
+        "indexstatusresult_verdict": "NEUTRAL",
+        "coverage_state": "Crawled - currently not indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/store/category/8/?page=1",
+            "https://theplantsmall.com/store/category/7/",
+            "https://theplantsmall.com/"
+        ],
+        "richResultsResult": {},
+        "lcp": "0.7\u00a0s",
+        "cls": "0.216",
+        "inp": "1.8\u00a0s"
+    },
+    {
+        "url": "https://theplantsmall.com/store/product/333/",
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 34.75,
+        "indexstatusresult_verdict": "NEUTRAL",
+        "coverage_state": "Crawled - currently not indexed",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_ALLOWED",
+        "pageFetchState": "SUCCESSFUL",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://theplantsmall.com/"
+        ],
+        "richResultsResult": {},
+        "lcp": "0.6\u00a0s",
+        "cls": "0.007",
+        "inp": "1.2\u00a0s",
+        "lastCrawlTime": "2025-04-22T20:51:59Z",
+        "googleCanonical": "https://theplantsmall.com/store/product/333/",
+        "userCanonical": null,
+        "pagespeed_score": 100
+    },
+    {
+        "url": "https://www.theplantsmall.com/store/product/168/",
+        "clicks": 0,
+        "impressions": 9,
+        "ctr": 0,
+        "position": 14.22,
+        "indexstatusresult_verdict": "NEUTRAL",
+        "coverage_state": "Not found (404)",
+        "robotsTxtState": "ALLOWED",
+        "indexingState": "INDEXING_STATE_UNSPECIFIED",
+        "pageFetchState": "NOT_FOUND",
+        "crawledAs": "MOBILE",
+        "mobileUsabilityResult": "VERDICT_UNSPECIFIED",
+        "referringUrls": [
+            "https://www.theplantsmall.com/store/category/5/"
+        ],
+        "richResultsResult": {},
+        "lcp": "1.1\u00a0s",
+        "cls": "0.225",
+        "inp": "2.0\u00a0s",
+        "lastCrawlTime": "2025-08-08T21:05:39Z",
+        "googleCanonical": null,
+        "userCanonical": null,
+        "pagespeed_score": 86.0
+    }
+]

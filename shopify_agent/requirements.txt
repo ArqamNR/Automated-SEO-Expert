@@ -1,0 +1,10 @@
+langchain
+langchain-core
+django
+dotenv
+langchain-community
+langchain-google-genai
+pymupdf
+langchain-huggingface
+google-genai
+tabulate

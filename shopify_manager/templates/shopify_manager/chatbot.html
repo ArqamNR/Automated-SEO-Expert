@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shopify</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Load Tailwind CSS for modern styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Define CSS variables for colors (Default: Dark Theme) */
+        :root {
+            --main-bg: #111827; /* Gray 900 */
+            --chat-bg: #1F2937; /* Gray 800 */
+            --bubble-bot: #374151; /* Gray 700 */
+            --primary-accent: #6366F1; /* Indigo 500 */
+            --text-color: #E5E7EB; /* Gray 200 */
+            --input-bg: #111827; /* Gray 900 */
+            --input-border: #374151; /* Gray 700 */
+            --token-bg: #374151; /* Gray 700 */
+            --shadow-color: rgba(0, 0, 0, 0.4);
+        }
+
+        /* Light Theme Overrides (Teal Accent) */
+        .light-theme {
+            --main-bg: #F3F4F6; /* Gray 100 */
+            --chat-bg: #FFFFFF; /* White */
+            --bubble-bot: #E5E7EB; /* Gray 200 */
+            --primary-accent: #14B8A6; /* Teal 500 */
+            --text-color: #1F2937; /* Gray 800 */
+            --input-bg: #FFFFFF; /* White */
+            --input-border: #D1D5DB; /* Gray 300 */
+            --token-bg: #E5E7EB; /* Gray 200 - FIX: Changed from dark gray to light gray for contrast against dark text */
+            --shadow-color: rgba(0, 0, 0, 0.1);
+        }
+
+        /* Custom styles for responsiveness and structure */
+        .chat-container {
+            /* Full viewport height on small screens */
+            height: 100vh;
+            max-width: 100%;
+            box-shadow: 0 20px 25px -5px var(--shadow-color);
+            transition: box-shadow 0.3s ease;
+        }
+
+        @media (min-width: 640px) {
+            .chat-container {
+                height: 700px;
+                max-width: 768px;
+            }
+        }
+        
+        /* Ensures the scrolling area works as expected */
+        #chat-messages {
+            flex-grow: 1;
+            overflow-y: auto;
+            scroll-behavior: smooth;
+        }
+
+        /* Hide default scrollbar but allow scrolling */
+        #chat-messages::-webkit-scrollbar {
+            width: 0;
+            background: transparent;
+        }
+        #chat-messages {
+            -ms-overflow-style: none;  /* IE and Edge */
+            scrollbar-width: none;  /* Firefox */
+        }
+        
+        /* Animation for new messages */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .message {
+            animation: fadeIn 0.3s ease-out;
+        }
+
+        /* Pulsing animation for the typing indicator dots */
+        @keyframes pulse {
+            0%, 100% { opacity: 0.3; }
+            50% { opacity: 1; }
+        }
+
+        .animate-pulse-delay-0 {
+            animation: pulse 1.2s infinite ease-in-out;
+        }
+        .animate-pulse-delay-200 {
+            animation: pulse 1.2s infinite ease-in-out;
+            animation-delay: 0.2s;
+        }
+        .animate-pulse-delay-400 {
+            animation: pulse 1.2s infinite ease-in-out;
+            animation-delay: 0.4s;
+        }
+    </style>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<!-- Theme colors now set by CSS variables -->
+<body class="bg-[var(--main-bg)] text-[var(--text-color)] transition-colors duration-300 flex items-start sm:items-center justify-center min-h-screen p-4 font-sans">
+
+    <!-- Floating Token Counters -->
+    <div class="fixed top-2 right-2 space-y-1 z-50 md:top-4 md:right-4">
+        <div id="token-counter" class="bg-[var(--token-bg)] text-[var(--text-color)] px-2 py-0.5 text-[10px] sm:text-xs rounded-lg shadow transition-colors duration-300">
+            Tokens Used: 0
+        </div>
+        <div id="input-token-counter" class="bg-[var(--token-bg)] text-[var(--text-color)] px-2 py-0.5 text-[10px] sm:text-xs rounded-lg shadow transition-colors duration-300">
+            Input Tokens: 0
+        </div>
+        <div id="output-token-counter" class="bg-[var(--token-bg)] text-[var(--text-color)] px-2 py-0.5 text-[10px] sm:text-xs rounded-lg shadow transition-colors duration-300">
+            Output Tokens: 0
+        </div>
+    </div>
+
+    <!-- Main Chat Container: Uses CSS variables for background -->
+    <div class="chat-container mx-auto my-0 bg-[var(--chat-bg)] rounded-xl flex flex-col w-full">
+        <!-- Chat Header: Uses primary accent color and includes theme toggle -->
+        <div class="p-4 bg-[var(--primary-accent)] text-white text-xl font-extrabold rounded-t-xl shadow-lg flex items-center justify-between sticky top-0 z-10 transition-colors duration-300">
+            <div class="flex items-center space-x-3">
+                <!-- Icon Placeholder -->
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6">
+                    <path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" x2="12" y1="19" y2="22"/>
+                </svg>
+                <span>Shopify Store Manager</span>
+            </div>
+
+            <!-- Theme Toggle Button -->
+            <button id="theme-toggle" onclick="toggleTheme()" class="p-2 rounded-full hover:bg-white/20 transition duration-200">
+                <span id="theme-icon-container">
+                    <!-- Default content set by JS on load -->
+                </span>
+            </button>
+        </div>
+
+        <!-- Chat Messages Area: Uses CSS variables for background -->
+        <div id="chat-messages" class="flex-1 p-4 sm:p-6 overflow-y-auto space-y-4 bg-[var(--chat-bg)] transition-colors duration-300">
+            <!-- Initial Bot Message: Uses CSS variables for background and text -->
+            <div class="message bot flex justify-start">
+                <span class="inline-block bg-[var(--bubble-bot)] text-[var(--text-color)] rounded-xl rounded-tl-sm p-3 shadow-sm max-w-[90%] sm:max-w-[80%] transition-colors duration-300 transform hover:scale-[1.01]">
+                    Hello! I'm your AI agent. I can help you with analysis and information retrieval. Please send your query!
+                </span>
+            </div>
+        </div>
+
+        <!-- Chat Input Area: Uses CSS variables for backgrounds, borders, and text -->
+        <div class="flex border-t border-[var(--input-border)] p-3 bg-[var(--chat-bg)] rounded-b-xl shadow-inner sticky bottom-0 z-10 transition-colors duration-300">
+            <input 
+                type="text" 
+                id="user-input" 
+                placeholder="Ask me anything..." 
+                class="flex-1 px-4 py-2 border-2 border-[var(--input-border)] bg-[var(--input-bg)] text-[var(--text-color)] rounded-full text-base focus:outline-none focus:ring-2 focus:ring-[var(--primary-accent)] focus:border-[var(--primary-accent)] transition-colors duration-300 shadow-inner"
+            />
+            <button 
+                onclick="sendMessage()" 
+                class="ml-3 px-6 py-2 bg-[var(--primary-accent)] text-white font-semibold rounded-full shadow-lg hover:brightness-110 focus:outline-none focus:ring-2 focus:ring-[var(--primary-accent)] focus:ring-offset-2 transition-colors duration-300 transform hover:scale-[1.02] disabled:opacity-50"
+                id="send-button"
+            >
+                Send
+            </button>
+        </div>
+    </div>
+
+<script>
+    let totalTokens = 0;
+    let inputTokens = 0;
+    let outputTokens = 0;
+    let currentThemeIsLight = false; // Default theme is dark
+
+    // Function to update the token display
+    function updateTokenDisplay() {
+        document.getElementById("token-counter").textContent = `Tokens Used: ${totalTokens}`;
+        document.getElementById("input-token-counter").textContent = `Input Tokens: ${inputTokens}`;
+        document.getElementById("output-token-counter").textContent = `Output Tokens: ${outputTokens}`;
+    }
+
+    // Function to create a message bubble
+    function createMessageElement(text, isUser) {
+        const msgDiv = document.createElement("div");
+        msgDiv.className = `message flex ${isUser ? 'justify-end' : 'justify-start'}`;
+
+        // Uses CSS variables for theme-aware styling
+        const bubbleClass = isUser 
+            ? 'inline-block bg-[var(--primary-accent)] text-white rounded-xl rounded-br-sm p-3 shadow-lg max-w-[90%] sm:max-w-[80%] transition-colors duration-300 transform hover:scale-[1.01]' 
+            : 'inline-block bg-[var(--bubble-bot)] text-[var(--text-color)] rounded-xl rounded-tl-sm p-3 shadow-md max-w-[90%] sm:max-w-[80%] transition-colors duration-300 transform hover:scale-[1.01]';
+            
+        msgDiv.innerHTML = `<span class="${bubbleClass}">${text}</span>`;
+        return msgDiv;
+    }
+
+    // Function to update the theme icon (Sun/Moon)
+    function updateThemeIcon() {
+        const iconContainer = document.getElementById('theme-icon-container');
+        // If currentThemeIsLight is true, show the Moon icon (to suggest switching to Dark Mode)
+        // If currentThemeIsLight is false (Dark Mode is active), show the Sun icon (to suggest switching to Light Mode)
+        const svg = currentThemeIsLight
+            ? `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><!-- Moon Icon: Dark mode toggle --><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>`
+            : `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-6 h-6"><!-- Sun Icon: Light mode toggle --><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>`;
+        
+        iconContainer.innerHTML = svg;
+    }
+
+    // Function to toggle between Dark and Light themes
+    function toggleTheme() {
+        const body = document.body;
+        currentThemeIsLight = !currentThemeIsLight;
+        
+        if (currentThemeIsLight) {
+            body.classList.add('light-theme');
+        } else {
+            body.classList.remove('light-theme');
+        }
+        
+        updateThemeIcon();
+    }
+
+    // Function to add a typing indicator
+    function showTypingIndicator() {
+        const chatMessages = document.getElementById("chat-messages");
+        const indicator = document.createElement("div");
+        indicator.id = "typing-indicator";
+        indicator.className = "message bot flex justify-start";
+        
+        // Uses CSS variables for dark theme background and gray-400 dots
+        indicator.innerHTML = `
+            <span class="inline-block bg-[var(--bubble-bot)] text-[var(--text-color)] rounded-xl rounded-tl-sm p-3 shadow-md max-w-[80%] transition-colors duration-300">
+                <div class="flex space-x-1">
+                    <div class="w-2 h-2 bg-gray-400 rounded-full animate-pulse-delay-0"></div>
+                    <div class="w-2 h-2 bg-gray-400 rounded-full animate-pulse-delay-200"></div>
+                    <div class="w-2 h-2 bg-gray-400 rounded-full animate-pulse-delay-400"></div>
+                </div>
+            </span>
+        `;
+        chatMessages.appendChild(indicator);
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+
+    // Function to remove the typing indicator
+    function removeTypingIndicator() {
+        const indicator = document.getElementById("typing-indicator");
+        if (indicator) {
+            indicator.remove();
+        }
+    }
+
+    // Main function to send message
+    async function sendMessage() {
+        const input = document.getElementById("user-input");
+        const message = input.value.trim();
+        const sendButton = document.getElementById("send-button");
+        if (message === "") return;
+
+        const chatMessages = document.getElementById("chat-messages");
+
+        // 1. Append user's message
+        chatMessages.appendChild(createMessageElement(message, true));
+        input.value = "";
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+        
+        // 2. Disable input and show typing indicator
+        sendButton.disabled = true;
+        input.disabled = true;
+        showTypingIndicator();
+
+
+        try {
+            // 3. API Call
+            // Implemented exponential backoff for robustness
+            let attempts = 0;
+            const maxAttempts = 5;
+            let data = null;
+            
+            while (attempts < maxAttempts) {
+                try {
+                    const response = await fetch("get-response/", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({ message: message })
+                    });
+
+                    if (!response.ok) {
+                        if (response.status === 429 && attempts < maxAttempts - 1) {
+                            // Too many requests, retry after delay
+                            const delay = Math.pow(2, attempts) * 1000;
+                            await new Promise(resolve => setTimeout(resolve, delay));
+                            attempts++;
+                            continue; // Skip the rest of the loop and retry
+                        }
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+
+                    data = await response.json();
+                    break; // Success, exit loop
+
+                } catch (error) {
+                    if (attempts < maxAttempts - 1) {
+                        const delay = Math.pow(2, attempts) * 1000;
+                        await new Promise(resolve => setTimeout(resolve, delay));
+                        attempts++;
+                    } else {
+                        throw error; // Re-throw if max attempts reached
+                    }
+                }
+            }
+            
+            if (!data) throw new Error("API failed to return data after multiple attempts.");
+
+            const botResponse = data.response || "I could not generate a response.";
+
+            // 4. Update Chat with Bot Response
+            removeTypingIndicator();
+            chatMessages.appendChild(createMessageElement(botResponse, false));
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+
+            // 5. Update token counts
+            if (data.tokens !== undefined) totalTokens += data.tokens;
+            if (data.input_tokens !== undefined) inputTokens += data.input_tokens;
+            if (data.output_tokens !== undefined) outputTokens += data.output_tokens;
+            updateTokenDisplay();
+
+        } catch (error) {
+            console.error("Fetch error:", error);
+            removeTypingIndicator();
+            chatMessages.appendChild(createMessageElement(`⚠️ Failed to get response: ${error.message}`, false));
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        } finally {
+            // 6. Re-enable input
+            sendButton.disabled = false;
+            input.disabled = false;
+            input.focus();
+        }
+    }
+
+    // Event listener for Enter key
+    document.getElementById("user-input").addEventListener("keydown", function(e) {
+        if (e.key === "Enter" && !e.shiftKey) {
+            e.preventDefault(); // Prevent new line in input
+            sendMessage();
+        }
+    });
+
+    // Initial setup on load
+    window.onload = () => {
+        document.getElementById("user-input").focus();
+        updateTokenDisplay(); // Set initial token counts
+        updateThemeIcon(); // Set the initial theme toggle icon
+    }
+</script>
+</body>
+</html>

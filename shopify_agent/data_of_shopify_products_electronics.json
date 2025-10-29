@@ -1,0 +1,101 @@
+[
+    {
+        "id": "gid://shopify/Product/7462018449542",
+        "title": "Servo Motor",
+        "handle": "servo-motor",
+        "description": "This high-torque, precision servo motor is designed for robotics, automation, RC projects, CNC machinery, and DIY electronics. With smooth rotation, fast response, and excellent holding torque, this servo ensures accurate positioning for demanding applications. Whether you\u2019re building a robotic arm, controlling steering in RC vehicles, or integrating automation in a production line, this servo motor delivers consistent performance with minimal noise and heat. \u2699\ufe0f Key Features High Precision Control \u2013 Ensures accurate angular positioning with minimal error. Durable Build Quality \u2013 Constructed with high-strength gears and a reliable housing for long service life. Fast Response Time \u2013 Quick start-stop performance ideal for robotics and automation. Wide Compatibility \u2013 Works with Arduino, Raspberry Pi, PLCs, and other microcontrollers. Energy Efficient \u2013 Low power consumption with excellent torque output. Smooth Operation \u2013 Stable performance with minimal vibration and noise. \ud83d\udcd0 Specifications (Example \u2013 adjust with your exact motor\u2019s specs) Model: Standard 20KG/25KG/30KG Digital Servo Motor (customize as per your motor) Operating Voltage: 4.8V \u2013 7.4V Torque: 20 kg\u00b7cm @ 6.0V 23 kg\u00b7cm @ 7.4V Speed: 0.16 sec/60\u00b0 @ 6.0V 0.14 sec/60\u00b0 @ 7.4V Rotation Angle: 0\u00b0\u2013270\u00b0 (limited) / 360\u00b0 (continuous models available) Motor Type: Coreless / Brushless (specify yours) Gears: Metal gear (high durability) Connector: Standard 3-pin (PWM signal, VCC, GND) Dimensions: 40 \u00d7 20 \u00d7 40 mm (approx., depending on model) Weight: ~60 g \ud83c\udfaf Applications Robotics (arms, legs, joints) RC Cars, Boats, and Aircraft CNC Machines & 3D Printers Smart Automation & IoT Projects Camera Gimbals & Pan-Tilt Mechanisms Educational DIY Kits \ud83d\udce6 What\u2019s in the Box 1 \u00d7 Servo Motor 1 \u00d7 Set of Servo Horns (plastic/aluminum) Mounting Screws & Accessories \ud83d\udca1 Why Choose This Servo Motor? Unlike cheaper alternatives, this servo motor is engineered for durability and consistent performance. It\u2019s perfect for both beginners experimenting with Arduino and professionals needing reliability in industrial projects. \ud83d\udd27 Compatibility Tips Works with most Arduino libraries (Servo.h) and Raspberry Pi PWM libraries. Use an external power supply for high-torque applications. Ensure servo controller or ESC supports required voltage & current. You can always head to the Products for exploring more products.",
+        "descriptionHtml": "<p data-start=\"410\" data-end=\"879\">This <strong data-start=\"415\" data-end=\"453\">high-torque, precision servo motor</strong> is designed for robotics, automation, RC projects, CNC machinery, and DIY electronics. With smooth rotation, fast response, and excellent holding torque, this servo ensures accurate positioning for demanding applications. Whether you\u2019re building a robotic arm, controlling steering in RC vehicles, or integrating automation in a production line, this servo motor delivers consistent performance with minimal noise and heat.</p>\n<h3 data-start=\"886\" data-end=\"907\">\u2699\ufe0f Key Features</h3>\n<ul data-start=\"908\" data-end=\"1461\">\n<li data-start=\"908\" data-end=\"997\">\n<p data-start=\"910\" data-end=\"997\"><strong data-start=\"910\" data-end=\"936\">High Precision Control</strong> \u2013 Ensures accurate angular positioning with minimal error.</p>\n</li>\n<li data-start=\"998\" data-end=\"1112\">\n<p data-start=\"1000\" data-end=\"1112\"><strong data-start=\"1000\" data-end=\"1025\">Durable Build Quality</strong> \u2013 Constructed with high-strength gears and a reliable housing for long service life.</p>\n</li>\n<li data-start=\"1113\" data-end=\"1205\">\n<p data-start=\"1115\" data-end=\"1205\"><strong data-start=\"1115\" data-end=\"1137\">Fast Response Time</strong> \u2013 Quick start-stop performance ideal for robotics and automation.</p>\n</li>\n<li data-start=\"1206\" data-end=\"1302\">\n<p data-start=\"1208\" data-end=\"1302\"><strong data-start=\"1208\" data-end=\"1230\">Wide Compatibility</strong> \u2013 Works with Arduino, Raspberry Pi, PLCs, and other microcontrollers.</p>\n</li>\n<li data-start=\"1303\" data-end=\"1381\">\n<p data-start=\"1305\" data-end=\"1381\"><strong data-start=\"1305\" data-end=\"1325\">Energy Efficient</strong> \u2013 Low power consumption with excellent torque output.</p>\n</li>\n<li data-start=\"1382\" data-end=\"1461\">\n<p data-start=\"1384\" data-end=\"1461\"><strong data-start=\"1384\" data-end=\"1404\">Smooth Operation</strong> \u2013 Stable performance with minimal vibration and noise.</p>\n</li>\n</ul>\n<h3 data-start=\"1468\" data-end=\"1540\">\ud83d\udcd0 Specifications (Example \u2013 adjust with your exact motor\u2019s specs)</h3>\n<ul data-start=\"1541\" data-end=\"2120\">\n<li data-start=\"1541\" data-end=\"1629\">\n<p data-start=\"1543\" data-end=\"1629\"><strong data-start=\"1543\" data-end=\"1552\">Model</strong>: Standard 20KG/25KG/30KG Digital Servo Motor (customize as per your motor)</p>\n</li>\n<li data-start=\"1630\" data-end=\"1668\">\n<p data-start=\"1632\" data-end=\"1668\"><strong data-start=\"1632\" data-end=\"1653\">Operating Voltage</strong>: 4.8V \u2013 7.4V</p>\n</li>\n<li data-start=\"1669\" data-end=\"1728\">\n<p data-start=\"1671\" data-end=\"1684\"><strong data-start=\"1671\" data-end=\"1681\">Torque</strong>:</p>\n<ul data-start=\"1687\" data-end=\"1728\">\n<li data-start=\"1687\" data-end=\"1706\">\n<p data-start=\"1689\" data-end=\"1706\">20 kg\u00b7cm @ 6.0V</p>\n</li>\n<li data-start=\"1709\" data-end=\"1728\">\n<p data-start=\"1711\" data-end=\"1728\">23 kg\u00b7cm @ 7.4V</p>\n</li>\n</ul>\n</li>\n<li data-start=\"1729\" data-end=\"1795\">\n<p data-start=\"1731\" data-end=\"1743\"><strong data-start=\"1731\" data-end=\"1740\">Speed</strong>:</p>\n<ul data-start=\"1746\" data-end=\"1795\">\n<li data-start=\"1746\" data-end=\"1769\">\n<p data-start=\"1748\" data-end=\"1769\">0.16 sec/60\u00b0 @ 6.0V</p>\n</li>\n<li data-start=\"1772\" data-end=\"1795\">\n<p data-start=\"1774\" data-end=\"1795\">0.14 sec/60\u00b0 @ 7.4V</p>\n</li>\n</ul>\n</li>\n<li data-start=\"1796\" data-end=\"1874\">\n<p data-start=\"1798\" data-end=\"1874\"><strong data-start=\"1798\" data-end=\"1816\">Rotation Angle</strong>: 0\u00b0\u2013270\u00b0 (limited) / 360\u00b0 (continuous models available)</p>\n</li>\n<li data-start=\"1875\" data-end=\"1931\">\n<p data-start=\"1877\" data-end=\"1931\"><strong data-start=\"1877\" data-end=\"1891\">Motor Type</strong>: Coreless / Brushless (specify yours)</p>\n</li>\n<li data-start=\"1932\" data-end=\"1975\">\n<p data-start=\"1934\" data-end=\"1975\"><strong data-start=\"1934\" data-end=\"1943\">Gears</strong>: Metal gear (high durability)</p>\n</li>\n<li data-start=\"1976\" data-end=\"2032\">\n<p data-start=\"1978\" data-end=\"2032\"><strong data-start=\"1978\" data-end=\"1991\">Connector</strong>: Standard 3-pin (PWM signal, VCC, GND)</p>\n</li>\n<li data-start=\"2033\" data-end=\"2098\">\n<p data-start=\"2035\" data-end=\"2098\"><strong data-start=\"2035\" data-end=\"2049\">Dimensions</strong>: 40 \u00d7 20 \u00d7 40 mm (approx., depending on model)</p>\n</li>\n<li data-start=\"2099\" data-end=\"2120\">\n<p data-start=\"2101\" data-end=\"2120\"><strong data-start=\"2101\" data-end=\"2111\">Weight</strong>: ~60 g</p>\n</li>\n</ul>\n<h3 data-start=\"2127\" data-end=\"2148\">\ud83c\udfaf Applications</h3>\n<ul data-start=\"2149\" data-end=\"2348\">\n<li data-start=\"2149\" data-end=\"2182\">\n<p data-start=\"2151\" data-end=\"2182\">Robotics (arms, legs, joints)</p>\n</li>\n<li data-start=\"2183\" data-end=\"2215\">\n<p data-start=\"2185\" data-end=\"2215\">RC Cars, Boats, and Aircraft</p>\n</li>\n<li data-start=\"2216\" data-end=\"2246\">\n<p data-start=\"2218\" data-end=\"2246\">CNC Machines &amp; 3D Printers</p>\n</li>\n<li data-start=\"2247\" data-end=\"2282\">\n<p data-start=\"2249\" data-end=\"2282\">Smart Automation &amp; IoT Projects</p>\n</li>\n<li data-start=\"2283\" data-end=\"2323\">\n<p data-start=\"2285\" data-end=\"2323\">Camera Gimbals &amp; Pan-Tilt Mechanisms</p>\n</li>\n<li data-start=\"2324\" data-end=\"2348\">\n<p data-start=\"2326\" data-end=\"2348\">Educational DIY Kits</p>\n</li>\n</ul>\n<h3 data-start=\"2355\" data-end=\"2381\">\ud83d\udce6 What\u2019s in the Box</h3>\n<ul data-start=\"2382\" data-end=\"2481\">\n<li data-start=\"2382\" data-end=\"2401\">\n<p data-start=\"2384\" data-end=\"2401\">1 \u00d7 Servo Motor</p>\n</li>\n<li data-start=\"2402\" data-end=\"2447\">\n<p data-start=\"2404\" data-end=\"2447\">1 \u00d7 Set of Servo Horns (plastic/aluminum)</p>\n</li>\n<li data-start=\"2448\" data-end=\"2481\">\n<p data-start=\"2450\" data-end=\"2481\">Mounting Screws &amp; Accessories</p>\n</li>\n</ul>\n<h3 data-start=\"2488\" data-end=\"2525\">\ud83d\udca1 Why Choose This Servo Motor?</h3>\n<p data-start=\"2526\" data-end=\"2763\">Unlike cheaper alternatives, this servo motor is <strong data-start=\"2575\" data-end=\"2631\">engineered for durability and consistent performance</strong>. It\u2019s perfect for both <strong data-start=\"2655\" data-end=\"2695\">beginners experimenting with Arduino</strong> and <strong data-start=\"2700\" data-end=\"2760\">professionals needing reliability in industrial projects</strong>.</p>\n<h3 data-start=\"2770\" data-end=\"2797\">\ud83d\udd27 Compatibility Tips</h3>\n<ul data-start=\"2798\" data-end=\"3028\">\n<li data-start=\"2798\" data-end=\"2885\">\n<p data-start=\"2800\" data-end=\"2885\">Works with most <strong data-start=\"2816\" data-end=\"2847\">Arduino libraries (Servo.h)</strong> and <strong data-start=\"2852\" data-end=\"2882\">Raspberry Pi PWM libraries</strong>.</p>\n</li>\n<li data-start=\"2886\" data-end=\"2952\">\n<p data-start=\"2888\" data-end=\"2952\">Use an <strong data-start=\"2895\" data-end=\"2920\">external power supply</strong> for high-torque applications.</p>\n</li>\n<li data-start=\"2953\" data-end=\"3028\">\n<p data-start=\"2955\" data-end=\"3028\">Ensure <strong data-start=\"2962\" data-end=\"2989\">servo controller or ESC</strong> supports required voltage &amp; current.</p>\n</li>\n</ul>\n<p>You can always head to the <a href=\"https://sa-electronics-and-home-appliances.myshopify.com/products/\" title=\"Products\">Products</a> for exploring more products.</p>",
+        "productType": "Motors",
+        "vendor": "SA Electronics and Home Appliances",
+        "status": "ACTIVE",
+        "tags": [
+            "motor",
+            "sa electronics and home appliances",
+            "servo",
+            "servo motor"
+        ],
+        "createdAt": "2025-09-18T09:50:00Z",
+        "updatedAt": "2025-10-09T08:38:42Z",
+        "publishedAt": "2025-09-18T09:50:03Z",
+        "onlineStoreUrl": null,
+        "onlineStorePreviewUrl": "https://sa-electronics-and-home-appliances.myshopify.com/products/servo-motor",
+        "seo": {
+            "title": "Servo Motor - SA Electronics and Home Appliances",
+            "description": "Power your next innovation! A precision, high-torque servo perfect for robotics, RC projects, automation, and DIY CNC machinery. Shop now!"
+        },
+        "metafields": {
+            "edges": [
+                {
+                    "node": {
+                        "key": "color-pattern",
+                        "value": "[\"gid://shopify/Metaobject/223799345286\"]",
+                        "namespace": "shopify"
+                    }
+                },
+                {
+                    "node": {
+                        "key": "power-source",
+                        "value": "[\"gid://shopify/Metaobject/223799312518\"]",
+                        "namespace": "shopify"
+                    }
+                },
+                {
+                    "node": {
+                        "key": "google_product_category",
+                        "value": "7275",
+                        "namespace": "mm-google-shopping"
+                    }
+                },
+                {
+                    "node": {
+                        "key": "title_tag",
+                        "value": "Servo Motor - SA Electronics and Home Appliances",
+                        "namespace": "global"
+                    }
+                },
+                {
+                    "node": {
+                        "key": "description_tag",
+                        "value": "Power your next innovation! A precision, high-torque servo perfect for robotics, RC projects, automation, and DIY CNC machinery. Shop now!",
+                        "namespace": "global"
+                    }
+                }
+            ]
+        },
+        "images": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "gid://shopify/ProductImage/36429437403270",
+                        "url": "https://cdn.shopify.com/s/files/1/0595/3454/0934/files/blue-servo-motor_500x500.jpg?v=1759997227",
+                        "altText": "Blue Tower Pro micro servo with visible branding on a white background",
+                        "width": 763,
+                        "height": 380
+                    }
+                }
+            ]
+        },
+        "variants": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "gid://shopify/ProductVariant/42445862633606",
+                        "sku": null,
+                        "price": "1000.00",
+                        "inventoryQuantity": 50
+                    }
+                }
+            ]
+        },
+        "options": [
+            {
+                "id": "gid://shopify/ProductOption/9597878567046",
+                "name": "Title",
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ],
+        "internal_links": []
+    }
+]

@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Google Search Performance Dashboard</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f8fafc;
+    }
+
+    .container-card {
+      background: white;
+      border-radius: 0.75rem;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+      transition: transform 0.2s;
+    }
+
+    .container-card:hover {
+      transform: translateY(-2px);
+    }
+
+    .circular-indicator {
+      position: relative;
+      width: 100px;
+      height: 100px;
+    }
+
+    .circular-indicator svg {
+      transform: rotate(-90deg);
+      width: 100%;
+      height: 100%;
+    }
+
+    .circular-indicator circle {
+      fill: none;
+      stroke-width: 10;
+      stroke-linecap: round;
+      transition: stroke-dashoffset 1s ease, stroke 0.3s;
+    }
+
+    .indicator-label {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      font-weight: 600;
+    }
+
+    .indicator-label span {
+      display: block;
+    }
+
+    .query-table-container {
+      max-height: 70vh;
+      overflow-y: auto;
+    }
+
+    th, td {
+      white-space: nowrap;
+    }
+
+    /* --- Animation styles for indexed indicators --- */
+    .pulse-glow {
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0% { box-shadow: 0 0 0 0 rgba(34,197,94,0.5); }
+      70% { box-shadow: 0 0 0 15px rgba(34,197,94,0); }
+      100% { box-shadow: 0 0 0 0 rgba(34,197,94,0); }
+    }
+
+    .pulse-glow-red {
+      animation: pulse-red 2s infinite;
+    }
+
+    @keyframes pulse-red {
+      0% { box-shadow: 0 0 0 0 rgba(239,68,68,0.5); }
+      70% { box-shadow: 0 0 0 15px rgba(239,68,68,0); }
+      100% { box-shadow: 0 0 0 0 rgba(239,68,68,0); }
+    }
+  </style>
+</head>
+<body class="p-6">
+
+  <div class="max-w-7xl mx-auto">
+    <header class="mb-10 border-b pb-4 flex justify-between items-center">
+      <div>
+        <h1 class="text-4xl font-extrabold text-gray-900 mb-2">
+          Google Search Performance Dashboard
+        </h1>
+        <p class="text-gray-500">
+          Live data from Google Search Console and PageSpeed Insights.
+        </p>
+      </div>
+    </header>
+    <div class="container-card p-6 mb-6">
+      <h2 class="text-2xl font-semibold text-gray-800 mb-4">Enter Credentials</h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div>
+          <label class="block text-sm font-medium text-gray-700 mb-1">Website URL</label>
+          <input type="text" id="website-url" placeholder="https://example.com"
+                 class="w-full p-2 border border-gray-300 rounded-lg focus:ring focus:ring-indigo-200" />
+        </div>
+        <div>
+          <label class="block text-sm font-medium text-gray-700 mb-1">Upload credentials.json</label>
+          <input type="file" id="credentials-file"
+                 accept=".json"
+                 class="w-full p-2 border border-gray-300 rounded-lg bg-gray-50 cursor-pointer" />
+        </div>
+        <div>
+          <label class="block text-sm font-medium text-gray-700 mb-1">Google Cloud Console Project API Key</label>
+          <input type="text" id="google-api-key" placeholder="AIzaSy..."
+                 class="w-full p-2 border border-gray-300 rounded-lg focus:ring focus:ring-indigo-200" />
+        </div>
+      </div>
+      <button id="connect-btn"
+              class="mt-4 px-6 py-2 bg-indigo-600 text-white font-semibold rounded-lg hover:bg-indigo-700 transition">
+        Connect
+      </button>
+      <p id="connect-status" class="mt-2 text-sm text-gray-600">Enter details and click Connect to load data.</p>
+    </div>
+    <div id="dashboard-container" class="hidden">
+      <div class="container-card p-6 mb-6">
+        <h2 class="text-2xl font-semibold text-gray-800 mb-2">Website Overview</h2>
+        <p id="displayed-url" class="text-lg text-indigo-700 font-medium">
+          --
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+
+        <div class="lg:col-span-2 container-card p-6">
+          <h3 class="text-2xl font-semibold text-gray-800 mb-4">
+            Top Search Queries
+          </h3>
+          <div class="query-table-container">
+            <table class="min-w-full divide-y divide-gray-200">
+              <thead class="bg-gray-50 sticky top-0">
+                <tr>
+                  <th class="px-4 py-3 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider w-1/3">
+                    Query
+                  </th>
+                  <th class="px-4 py-3 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                    Clicks
+                  </th>
+                  <th class="px-4 py-3 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                    CTR
+                  </th>
+                  <th class="px-4 py-3 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                    Impressions
+                  </th>
+                  <th class="px-4 py-3 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                    Position
+                  </th>
+                </tr>
+              </thead>
+              <tbody id="query-table-body" class="bg-white divide-y divide-gray-200"></tbody>
+            </table>
+            <p id="query-loading" class="text-center text-gray-500 p-4">
+              Click Connect to load query data...
+            </p>
+          </div>
+
+          <div id="indexed-section" class="mt-10 flex justify-around items-center">
+            <div class="text-center">
+              <div class="w-24 h-24 rounded-full bg-green-100 flex items-center justify-center pulse-glow mx-auto">
+                <span id="indexed-count" class="text-3xl font-bold text-green-600">0</span>
+              </div>
+              <p class="mt-2 text-gray-700 font-medium">Indexed Pages</p>
+            </div>
+            <div class="text-center">
+              <div class="w-24 h-24 rounded-full bg-red-100 flex items-center justify-center pulse-glow-red mx-auto">
+                <span id="not-indexed-count" class="text-3xl font-bold text-red-600">0</span>
+              </div>
+              <p class="mt-2 text-gray-700 font-medium">Not Indexed Pages</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="lg:col-span-1 space-y-6">
+
+          <div class="container-card p-6">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4">
+              Core Web Vitals
+            </h3>
+            <div id="core-web-vitals" class="grid grid-cols-2 gap-4"></div>
+          </div>
+
+          <div class="container-card p-6">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4">
+              PageSpeed Insights
+            </h3>
+            <div id="pagespeed-insights" class="grid grid-cols-2 gap-4"></div>
+          </div>
+        </div>
+      </div>
+      <div id="website-issues-section" class="mt-10 container-card p-6">
+        <div class="flex justify-between items-center mb-4">
+          <h3 class="text-2xl font-semibold text-gray-800">Website Issues</h3>
+          <button id="resolve-issues-btn"
+                  class="px-4 py-2 bg-indigo-600 text-white text-sm font-semibold rounded-lg hover:bg-indigo-700 transition">
+            Resolve Issues
+          </button>
+        </div>
+        <ul id="issues-list" class="space-y-3">
+          <li class="text-gray-500 italic">Click Connect to load issues...</li>
+        </ul>
+      </div>
+      </div>
+  </div>
+
+  <script>
+    // --- Data Fetching Functions (Updated to accept websiteUrl) ---
+    async function fetchQueryMetrics(websiteUrl) {
+      const response = await fetch(`gsc-queries/?url=${encodeURIComponent(websiteUrl)}`);
+      if (!response.ok) throw new Error('Failed to fetch query metrics');
+      return await response.json();
+    }
+
+    async function fetchCoreWebVitals(websiteUrl) {
+      const response = await fetch(`core-web-vitals/?url=${encodeURIComponent(websiteUrl)}`);
+      if (!response.ok) throw new Error('Failed to fetch core web vitals');
+      return await response.json();
+    }
+
+    async function fetchWebsiteIssues(websiteUrl) {
+      const response = await fetch(`website-issues/?url=${encodeURIComponent(websiteUrl)}`);
+      if (!response.ok) throw new Error('Failed to fetch website issues');
+      return await response.json();
+    }
+
+    // --- Helper Functions (No changes needed) ---
+
+    function getIndicatorColor(metric, value) {
+      if (metric === 'lcp') {
+        if (value <= 2.5) return '#16a34a';
+        if (value <= 4) return '#facc15';
+        return '#dc2626';
+      }
+      if (metric === 'inp') {
+        if (value <= 0.2) return '#16a34a';
+        if (value <= 0.5) return '#facc15';
+        return '#dc2626';
+      }
+      if (metric === 'cls') {
+        if (value <= 0.1) return '#16a34a';
+        if (value <= 0.25) return '#facc15';
+        return '#dc2626';
+      }
+      if (metric === 'pagespeed') {
+        if (value >= 90) return '#16a34a';
+        if (value >= 50) return '#facc15';
+        return '#dc2626';
+      }
+    }
+
+    function renderCircularIndicator(container, title, metric, value, unit = '') {
+      const color = getIndicatorColor(metric, value);
+      const maxValue = metric === 'pagespeed' ? 100 :
+                       metric === 'lcp' ? 6 :
+                       metric === 'inp' ? 1 :
+                       0.5;
+      const percentage = Math.min((value / maxValue) * 100, 100);
+      const circumference = 2 * Math.PI * 45;
+      const offset = circumference - (percentage / 100) * circumference;
+
+      const html = `
+        <div class="flex flex-col items-center">
+          <div class="circular-indicator mb-2">
+            <svg width="100" height="100">
+              <circle cx="50" cy="50" r="45" stroke="#e5e7eb"></circle>
+              <circle cx="50" cy="50" r="45"
+                stroke="${color}"
+                stroke-dasharray="${circumference}"
+                stroke-dashoffset="${circumference}"
+                style="transition: stroke-dashoffset 1s ease;"
+              ></circle>
+            </svg>
+            <div class="indicator-label">
+              <span class="text-lg text-gray-800">${value}${unit}</span>
+              <span class="text-xs text-gray-500">${title}</span>
+            </div>
+          </div>
+        </div>
+      `;
+
+      container.insertAdjacentHTML('beforeend', html);
+
+      setTimeout(() => {
+        const circle = container.lastElementChild.querySelectorAll('circle')[1];
+        circle.style.strokeDashoffset = offset;
+      }, 100);
+    }
+
+    // --- Rendering Functions (No changes needed) ---
+
+    function renderQueryMetrics(data) {
+      const tableBody = document.getElementById('query-table-body');
+      const queryLoading = document.getElementById('query-loading');
+      const websiteUrl = document.getElementById('displayed-url');
+      queryLoading.style.display = 'none';
+      websiteUrl.textContent = data.website_url || '--';
+
+      tableBody.innerHTML = '';
+      (data.metrics || []).forEach(item => {
+        const row = document.createElement('tr');
+        row.className = 'hover:bg-gray-50 text-sm text-gray-700';
+        row.innerHTML = `
+          <td class="px-4 py-3 font-medium text-gray-900">${item.query}</td>
+          <td class="px-4 py-3">${item.clicks}</td>
+          <td class="px-4 py-3">${item.ctr}%</td>
+          <td class="px-4 py-3">${item.impressions}</td>
+          <td class="px-4 py-3">${item.position}</td>
+        `;
+        tableBody.appendChild(row);
+      });
+      if ((data.metrics || []).length === 0) {
+        queryLoading.style.display = 'block';
+        queryLoading.textContent = 'No search query data found for this property.';
+      }
+    }
+
+    function renderCoreWebVitals(data) {
+      const cwvContainer = document.getElementById('core-web-vitals');
+      const pagespeedContainer = document.getElementById('pagespeed-insights');
+      const indexedCount = document.getElementById('indexed-count');
+      const notIndexedCount = document.getElementById('not-indexed-count');
+
+      cwvContainer.innerHTML = '';
+      pagespeedContainer.innerHTML = '';
+
+      if (!data.core_web_vitals || data.core_web_vitals.length === 0) return;
+      const vitals = data.core_web_vitals[0];
+
+      renderCircularIndicator(cwvContainer, 'LCP', 'lcp', parseFloat(vitals.lcp), 's');
+      renderCircularIndicator(cwvContainer, 'INP', 'inp', parseFloat(vitals.inp), 's');
+      renderCircularIndicator(cwvContainer, 'CLS', 'cls', parseFloat(vitals.cls), '');
+      // Assuming pagespeedscore is used for both mobile and desktop as a placeholder
+      renderCircularIndicator(pagespeedContainer, 'Mobile', 'pagespeed', parseFloat(vitals.pagespeedscore));
+      renderCircularIndicator(pagespeedContainer, 'Desktop', 'pagespeed', parseFloat(vitals.pagespeedscore));
+
+      indexedCount.textContent = data.indexed_pages?.length || 0;
+      notIndexedCount.textContent = data.not_indexed_pages?.length || 0;
+    }
+
+    function renderWebsiteIssues(data) {
+      const issuesList = document.getElementById('issues-list');
+      issuesList.innerHTML = '';
+
+      if (!data.website_issues || data.website_issues.length === 0) {
+        issuesList.innerHTML = '<li class="text-gray-500 italic">No issues found — everything looks good!</li>';
+        return;
+      }
+
+      const issue = data.website_issues[0];
+      const issueEntries = Object.entries(issue);
+
+      issueEntries.forEach(([key, value]) => {
+        const formattedKey = key
+          .replace(/([A-Z])/g, ' $1')
+          .replace(/^./, (str) => str.toUpperCase());
+
+        const li = document.createElement('li');
+        li.className =
+          'flex items-center justify-between bg-red-50 border border-red-200 rounded-lg px-4 py-2 shadow-sm hover:bg-red-100 transition';
+
+        li.innerHTML = `
+          <span class="text-gray-800 font-medium">${formattedKey}</span>
+          <span class="text-red-600 font-semibold">❌ ${value}</span>
+        `;
+        issuesList.appendChild(li);
+      });
+    }
+
+    // --- New Initialization/Connect Logic ---
+    window.onload = function () {
+      const connectBtn = document.getElementById('connect-btn');
+      const connectStatus = document.getElementById('connect-status');
+      const websiteUrlInput = document.getElementById('website-url');
+      const dashboardContainer = document.getElementById('dashboard-container');
+
+      connectBtn.addEventListener('click', async () => {
+        const websiteUrl = websiteUrlInput.value.trim();
+
+        if (!websiteUrl) {
+          connectStatus.className = 'mt-2 text-sm text-red-500';
+          connectStatus.textContent = '❌ Please enter a Website URL.';
+          return;
+        }
+
+        connectBtn.disabled = true;
+        connectBtn.textContent = 'Connecting...';
+        connectStatus.className = 'mt-2 text-sm text-indigo-600';
+        connectStatus.textContent = '⏳ Attempting to fetch data...';
+        dashboardContainer.classList.add('hidden'); // Hide dashboard while loading
+
+        try {
+          // Fetch all data concurrently
+          const [queryData, cwvData, websiteIssues] = await Promise.all([
+            fetchQueryMetrics(websiteUrl),
+            fetchCoreWebVitals(websiteUrl),
+            fetchWebsiteIssues(websiteUrl)
+          ]);
+
+          // Render the data
+          if (queryData.success) {
+            renderQueryMetrics(queryData);
+          } else {
+            throw new Error(queryData.message || 'Search Console query data failed.');
+          }
+
+          if (cwvData.success) {
+            renderCoreWebVitals(cwvData);
+          } else {
+            throw new Error(cwvData.message || 'Core Web Vitals data failed.');
+          }
+
+          if (websiteIssues.success) {
+            renderWebsiteIssues(websiteIssues);
+          } else {
+            throw new Error(websiteIssues.message || 'Website Issues data failed.');
+          }
+
+          // Update status and show dashboard
+          connectStatus.className = 'mt-2 text-sm text-green-600';
+          connectStatus.textContent = `✅ Successfully connected and loaded data for: ${websiteUrl}`;
+          connectBtn.textContent = 'Re-Connect';
+          dashboardContainer.classList.remove('hidden'); // Show dashboard
+
+        } catch (err) {
+          console.error(err);
+          connectStatus.className = 'mt-2 text-sm text-red-500';
+          connectStatus.textContent = '❌ Connection/Loading Error: ' + err.message;
+          connectBtn.textContent = 'Connect'; // Restore button text on failure
+        } finally {
+          connectBtn.disabled = false;
+        }
+      });
+    };
+    // --- Resolve Issues (GET) ---
+(function attachResolveHandler() {
+  const resolveBtn = document.getElementById('resolve-issues-btn');
+  const connectStatus = document.getElementById('connect-status');
+  const websiteUrlInput = document.getElementById('website-url');
+  const issuesList = document.getElementById('issues-list');
+
+  if (!resolveBtn) return; // safety
+
+  resolveBtn.addEventListener('click', async () => {
+    const websiteUrl = websiteUrlInput.value.trim();
+
+    if (!websiteUrl) {
+      connectStatus.className = 'mt-2 text-sm text-red-500';
+      connectStatus.textContent = '❌ Please enter a Website URL before resolving issues.';
+      return;
+    }
+
+    resolveBtn.disabled = true;
+    const prevText = resolveBtn.textContent;
+    resolveBtn.textContent = 'Resolving...';
+
+    try {
+      // GET request to Django endpoint
+      const resp = await fetch(`resolve-website-issues/?url=${encodeURIComponent(websiteUrl)}`);
+      if (!resp.ok) throw new Error(`Server returned ${resp.status}`);
+
+      const result = await resp.json();
+
+      if (result.success) {
+        connectStatus.className = 'mt-2 text-sm text-green-600';
+        connectStatus.textContent = `✅ ${result.message || 'Issues resolved successfully.'}`;
+
+        // ✅ Clear old issues and render fresh with solutions
+        issuesList.innerHTML = ''; // clear existing issues
+
+        const issuesAndSolutions = result.issues_and_solutions || [];
+
+        if (issuesAndSolutions.length === 0) {
+          issuesList.innerHTML =
+            '<li class="text-gray-500 italic">No issues found — everything looks good!</li>';
+          return;
+        }
+
+        // Render each issue + solution directly
+        issuesAndSolutions.forEach(({ Issue, Solution }) => {
+          const li = document.createElement('li');
+          li.className =
+            'bg-red-50 border border-red-200 rounded-lg px-4 py-2 shadow-sm hover:bg-red-100 transition';
+
+          li.innerHTML = `
+            <div class="flex items-center justify-between">
+              <span class="text-gray-800 font-medium">${Issue}</span>
+              <span class="text-red-600 font-semibold">❌</span>
+            </div>
+            <p class="text-green-700 text-sm mt-2 ml-2">
+              💡 ${Solution}
+            </p>
+          `;
+
+          issuesList.appendChild(li);
+        });
+      } else {
+        connectStatus.className = 'mt-2 text-sm text-red-500';
+        connectStatus.textContent = `⚠️ ${result.message || 'Failed to resolve issues.'}`;
+      }
+    } catch (err) {
+      console.error(err);
+      connectStatus.className = 'mt-2 text-sm text-red-500';
+      connectStatus.textContent = '❌ Error while resolving issues: ' + err.message;
+    } finally {
+      resolveBtn.disabled = false;
+      resolveBtn.textContent = prevText;
+    }
+  });
+})();
+
+
+
+  </script>
+</body>
+</html>

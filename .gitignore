@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+store_manager/
+shopify_agent/credentials.json
+shopify_agent/creds.json
+shopify_agent/client_secret.json
+token.json
+client_secret.json
+# Django stuff
+db.sqlite3 
+*.log
+
+# VSCode or IDE
+.vscode/
+.idea/
+
+# Static and media files
+/staticfiles/
+media/
+
+# Environment variables
+.env
+.env.local
+.env.production
