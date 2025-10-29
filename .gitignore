@@ -11,6 +11,14 @@ shopify_agent/creds.json
 shopify_agent/client_secret.json
 token.json
 client_secret.json
+
+main_db_for_.db
+main_db_for_0px5tv-ji.db
+main_db_for_sa-electronics-and-home-appliances.db
+main_db_for_the_plants_mall.db
+seo_agent_memory.json
+shopify_store_manager_memory.json
+sql_query_agent_memory.json
 # Django stuff
 db.sqlite3 
 *.log
