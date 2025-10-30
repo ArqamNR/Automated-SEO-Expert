@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+huggingface-hub
+google-genai
+langchain-google-genai
+django
+pymupdf
+python-dotenv
+sentence-transformers
